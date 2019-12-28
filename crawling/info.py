@@ -54,7 +54,7 @@ print(title)
 
 
 imgUrl = soup.find('div', attrs = {'class': 'center-block img-hero heart-me'}).find("img")["src"]
-imgUrl = 'https://' + imgUrl
+imgUrl = 'https:' + imgUrl
 print(imgUrl)
 
 
