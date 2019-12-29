@@ -8,6 +8,8 @@ capsule {
   runtime-flags {
     concepts-inherit-super-type-features
     modern-prompt-rejection
+    modern-default-view-behavior
+    no-filtering-with-validation
     support-halt-effect-in-computed-inputs
   }
 }
