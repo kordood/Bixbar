@@ -1,10 +1,10 @@
 endpoints {
   action-endpoints {
     // Uncomment the lines below and enter the information for actions, inputs, and the appropriate local or remote endpoints
-    // action-endpoint (__ACTION_NAME__) {
-    //   accepted-inputs (__LIST_OF_ACTION_INPUTS__)
-    //   local-endpoint (__JS_FILE_NAME_FUNCTION_REFERENCE__)
-    // }
+     action-endpoint (Recommand) {
+       accepted-inputs (cocktailName)
+       local-endpoint (recommand.js)
+     }
 
     // action-endpoint (__ACTION_NAME__) {
     //   accepted-inputs (__LIST_OF_ACTION_INPUTS__)
@@ -14,3 +14,13 @@ endpoints {
     // }
   }
 }
+
+//remote endpoint 작성 예시
+// endpoints {
+//   action-endpoints {
+//     action-endpoint (FindShoeRemoteEndpoint) {
+//       accepted-inputs ()
+//       remote-endpoint ("{remote.url}/shoes") {
+//         method (GET)
+//       }
+//     }
