@@ -49,7 +49,7 @@ def getInfo(url):
         all_ingredient = soup.body.find_all('div', attrs={'class': 'measure'})
         for one_ingredient in all_ingredient:
             one_ele = one_ingredient.text.strip()
-            if type(one_ele) == None.__class__:
+            if one_ele == '':
                 one_ele = 'None'
             else:
                 one_ele = unicodedata.normalize("NFKD", one_ele)
@@ -58,7 +58,7 @@ def getInfo(url):
             ingredients_value.append(one_ele)
 
     except:
-        ingredients_value.append('None')
+        ingredients_value
     #ingredients_value
 
     # In[59]:
