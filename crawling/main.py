@@ -5,9 +5,9 @@ import crawling
 
 url = 'https://www.liquor.com/hub/cocktail-recipes/#gs.opmes6'
 
-driver = webdriver.Chrome('/Users/hyeryeongsong/chromedriver') #빈 브라우저 띄움
+#driver = webdriver.Chrome('/Users/hyeryeongsong/chromedriver') #빈 브라우저 띄움
 
-driver.get(url)
+#driver.get(url)
 
 
 # In[6]:
@@ -59,4 +59,4 @@ for currentURLs in childUrls:
                     print(currentUrl)
                     crawling.getInfo(currentUrl)
 
-driver.close()
+#driver.close()
