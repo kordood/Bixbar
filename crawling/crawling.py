@@ -49,8 +49,11 @@ def getInfo(url):
         all_ingredient = soup.body.find_all('div', attrs={'class': 'measure'})
         for one_ingredient in all_ingredient:
             one_ele = one_ingredient.text.strip()
-            one_ele = unicodedata.normalize("NFKD", one_ele)
-            # one_ele = stripped(one_ele)
+            if type(one_ele) == None.__class__:
+                one_ele = 'None'
+            else:
+                one_ele = unicodedata.normalize("NFKD", one_ele)
+            #one_ele = stripped(one_ele)
             # print(one_ele)
             ingredients_value.append(one_ele)
 
