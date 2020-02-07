@@ -49,7 +49,7 @@ def getInfo(url):
         all_ingredient = soup.body.find_all('div', attrs={'class': 'measure'})
         for one_ingredient in all_ingredient:
             one_ele = one_ingredient.text.strip()
-            if one_ele == '':
+            if (one_ele == ''):
                 one_ele = 'None'
             else:
                 one_ele = unicodedata.normalize("NFKD", one_ele)
@@ -58,7 +58,7 @@ def getInfo(url):
             ingredients_value.append(one_ele)
 
     except:
-        ingredients_value
+        print("except")
     #ingredients_value
 
     # In[59]:
@@ -73,7 +73,7 @@ def getInfo(url):
             ingredients_key.append(one_ele)
 
     except:
-        ingredients_value.append('None')
+        ingredients_key.append('None')
 
     # In[60]:
 
@@ -88,7 +88,7 @@ def getInfo(url):
             ingredients_key.append(one_ele)
 
     except:
-        ingredients_value.append('None')
+        ingredients_key.append('None')
 
     # In[61]:
 
@@ -101,7 +101,7 @@ def getInfo(url):
         ingredients_value.append(one_ele)
 
     except:
-        ingredients_value.append('None')
+        print('none')
 
     try:
         all_ingredient = soup.body.find('div', attrs={'class': 'col-xs-9 recipe-link x-recipe-glasstype no-padding'})
@@ -112,7 +112,7 @@ def getInfo(url):
         ingredients_value.append(one_ele)
 
     except:
-        ingredients_value.append('None')
+        print('none')
 
 
     # In[62]:
@@ -354,7 +354,7 @@ def getInfo(url):
     data['profile_key'] = profile_key
     data['profile_value'] = profile_value
 
-    print(data)
+    #print(data)
 
     # In[74]:
 
@@ -373,3 +373,7 @@ def getInfo(url):
     print(all_recipe)
     print(profile_key)
     print(profile_value)
+    print(len(ingredients_key))
+    print(len(ingredients_value))
+    print(len(profile_key))
+    print(len(profile_value))
