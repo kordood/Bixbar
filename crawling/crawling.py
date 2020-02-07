@@ -117,14 +117,18 @@ def getInfo(url):
 
     # In[62]:
 
-    all_recipe = []
-    allRecipe = soup.body.find('div', attrs={'class': 'row x-recipe-prep'}).find_all('p')
-    for oneRecipe in allRecipe:
-        one_ele = oneRecipe.string
-        if type(one_ele) != None.__class__:
-            one_ele = unicodedata.normalize("NFKD", one_ele)
-            one_ele = stripped(one_ele)
-            all_recipe.append(one_ele)
+    try:
+        all_recipe = []
+        allRecipe = soup.body.find('div', attrs={'class': 'row x-recipe-prep'}).find_all('p')
+        for oneRecipe in allRecipe:
+            one_ele = oneRecipe.string
+            if type(one_ele) != None.__class__ or one_ele == '':
+                one_ele = unicodedata.normalize("NFKD", one_ele)
+                one_ele = stripped(one_ele)
+                all_recipe.append(one_ele)
+
+    except:
+        print('none')
 
     # In[63]:
 
