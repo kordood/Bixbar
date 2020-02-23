@@ -19,9 +19,10 @@ def getInfo(cocktailBase):
         pageString = driver.page_source
         bsObj = BeautifulSoup(pageString, "lxml")
 
-        try:
+        #try:
 
-            for link1 in bsObj.find_all(name="div", attrs={"class": "Nnq7C weEfm"}):
+        for link1 in bsObj.find_all(name="div", attrs={"class": "Nnq7C weEfm"}):
+            try:
                 title = link1.select('a')[0]
                 real = title.attrs['href']
                 reallink.append(real)
@@ -31,24 +32,26 @@ def getInfo(cocktailBase):
                 title = link1.select('a')[2]
                 real = title.attrs['href']
                 reallink.append(real)
+            except:
+                print("exception occured")
 
-            last_height = driver.execute_script("return document.body.scrollHeight")
+        last_height = driver.execute_script("return document.body.scrollHeight")
+        driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+        sleep(SCROLL_PAUSE_TIME)
+        new_height = driver.execute_script("return document.body.scrollHeight")
+        if new_height == last_height:
             driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
             sleep(SCROLL_PAUSE_TIME)
             new_height = driver.execute_script("return document.body.scrollHeight")
             if new_height == last_height:
-                driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-                sleep(SCROLL_PAUSE_TIME)
-                new_height = driver.execute_script("return document.body.scrollHeight")
-                if new_height == last_height:
-                    break
+                break
 
-                else:
-                    last_height = new_height
-                    continue
+            else:
+                last_height = new_height
+                continue
 
-        except:
-            print("exception occured")
+        #except:
+            #print("exception occured")
 
     csvtext = []
 
