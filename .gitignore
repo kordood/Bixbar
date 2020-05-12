@@ -160,3 +160,8 @@ lerna-debug.log
 Thumbs.db
 
 !.keep
+
+.terraform
+terraform.tfstate
+*.tfstate*
+terraform.tfvars
