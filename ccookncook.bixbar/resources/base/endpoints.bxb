@@ -26,10 +26,18 @@ endpoints {
        local-endpoint (submitSurvey.js)
      }
 
+     // for bixbyUserId    
      action-endpoint (AccessVivContext) {
        accepted-inputs ($vivContext)
        local-endpoint (AccessVivContext.js)
      }
+
+     // for httpPost
+     action-endpoint (CreateUser) {
+       local-endpoint (CreateUser.js)
+     }
+
+     
 
 
     // action-endpoint (__ACTION_NAME__) {
