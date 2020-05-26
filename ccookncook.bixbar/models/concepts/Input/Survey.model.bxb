@@ -1,0 +1,10 @@
+structure (Survey) {
+  property (gender) {
+    type (Gender)
+    min (Required) max (One)
+  }
+  property (age) {
+    type (Age)
+    min (Required) max (One)
+  }
+}

@@ -1,0 +1,11 @@
+name (CocktailName) {
+  description (__DESCRIPTION__)
+}
+
+// structure (CocktailName) {
+//   description (__DESCRIPTION__)
+//   property (cocktailName) {
+//     type (Title)
+//     min (Required) max (One)
+//   }
+// }

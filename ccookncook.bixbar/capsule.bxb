@@ -1,0 +1,17 @@
+capsule {
+  id (playground.bixbar)
+  version (0.1.0)
+  format (3)
+  targets {
+    target (bixby-mobile-en-US)
+  }
+  store-countries{
+    all{}
+  }
+  device-models{
+    all{}
+  }
+  runtime-version(4) {
+   
+  }
+}

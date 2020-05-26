@@ -1,0 +1,25 @@
+structure (BaseResults) {
+  //결과.
+  //coctail name,
+  //profile(base spirit)
+  
+  description (Results for cocktails found by base spirit)
+ 
+ //title
+ property (title){
+   type(Title)
+   min(Required) max(One)
+  }
+ 
+ //imgURL
+ property (img){
+   type(Img)
+   min(Required) max(One)
+  }
+  
+  //baseSpirit
+  property (baseSpirit){
+   type(BaseSpirit)
+   min(Required) max(Many)
+  }  
+}

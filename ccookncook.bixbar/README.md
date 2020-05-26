@@ -1,2 +1,1 @@
-# ccookncook
-For capstone design project.
+# ccookncook.bixbar

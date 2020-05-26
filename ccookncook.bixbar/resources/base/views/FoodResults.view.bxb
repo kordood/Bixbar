@@ -1,0 +1,70 @@
+result-view{
+match : FoodResults(this){
+	//	min (Required) max (Many)
+} 
+
+message{
+  //if (this[0].baseSpirit[0] == this[1].baseSpirit[0]){
+    template("Check all about it!")
+  //}
+  
+}
+
+render{
+  if (size (this) == 1) {   //결과가 하나일때
+    layout-match (this) {     
+      mode (Details)
+    }
+  }
+  else{
+    layout{
+     for-each (this){ 
+       as(item){
+         section{
+           content{
+             image-card {
+         
+         aspect-ratio (4:3)
+         title-area { halign (Start)
+           slot1 {
+             text { value ("#{value(item.foodsTitle)}") style (Title_M) }
+             }
+           slot2 {
+             single-line {
+             text { value ("Match Cocktail :  #{value(item.matchCocktails[0])}") style (Detail_L) }
+             }
+             }
+           }
+           image-object-fit (Cover){
+             image (/assets/images/cocktail-food-img.jpg)
+           }
+       
+      }
+             
+           }
+         }
+       
+    
+     }
+     }
+    }
+  }
+}
+conversation-drivers{
+  // if(size (this) <= 1){
+  //   conversation-driver {
+  //     template ("How can I make #{value(this[0].title)}")
+  //   }
+  // }
+  // else{
+  //   conversation-driver {
+  //     template ("Show me how to make #{value(this[0].title)}")
+  //   }
+  //   conversation-driver {
+  //     template ("Recipe of #{value(this[1].title)}")
+  //   }
+  // }
+   
+  // }
+}
+}
