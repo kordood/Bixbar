@@ -1,3 +1,14 @@
-action (User) {
-  description (__DESCRIPTION__)
+structure (User) {
+  property (gender){
+    type (Gender)
+    min (Required)
+  }
+  property (age){
+    type (Age)
+    min (Required)
+  }
+  property (userId){
+    type (UserId)
+    min (Required)
+  }
 }
