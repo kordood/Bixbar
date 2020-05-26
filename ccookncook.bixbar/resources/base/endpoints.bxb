@@ -26,6 +26,11 @@ endpoints {
        local-endpoint (submitSurvey.js)
      }
 
+     action-endpoint (AccessVivContext) {
+       accepted-inputs ($vivContext)
+       local-endpoint (AccessVivContext.js)
+     }
+
 
     // action-endpoint (__ACTION_NAME__) {
     //   accepted-inputs (__LIST_OF_ACTION_INPUTS__)

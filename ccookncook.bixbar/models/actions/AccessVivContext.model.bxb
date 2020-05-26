@@ -1,0 +1,5 @@
+action (AccessVivContext) {
+  type (Search)
+  description (__DESCRIPTION__)
+  output (VivContext)
+}
