@@ -32,8 +32,9 @@ endpoints {
        local-endpoint (AccessVivContext.js)
      }
 
-     // for httpPost
+     // for httpPost & bixbUserID
      action-endpoint (CreateUser) {
+       accepted-inputs ($vivContext)
        local-endpoint (CreateUser.js)
      }
 
