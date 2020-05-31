@@ -1,26 +1,26 @@
 input-view {
   match {
-    Age (age) { 
+    Gender (gender) { 
       to-input: SubmitSurvey
     }
   }
   message {
-    template ("What is your gender?")
+    template ("What is your gender?(Female/Male)")
   }
   render {
     form {
       elements {
-        number-input {
-          id (age)
-          allow-negative (false)
-          integer-limit (3)
-          type (Age)
-          label (Age)
+        text-input {
+          id (gender)
+          label (Gender)
+          type (Gender)
+          max-length (10)
+          value ("#{raw(gender)}")
         }
       }
       on-submit {
-        goal: Age
-        value: viv.core.FormElement(age)
+        goal: Gender
+        value: viv.core.FormElement(gender)
       }
     }
   }
