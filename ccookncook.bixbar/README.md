@@ -12,7 +12,7 @@
 - createUser.js
   - bixbyUser
 
-- findbyBaseSpirit.js
+- findbyBaseSpirit.js  
   - 칵테일 베이스로 검색
 
 - findbyCocktailName.js
