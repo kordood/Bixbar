@@ -1,0 +1,10 @@
+action (FoodRecommand) {
+  description (recommand food action)
+  collect {
+    input (queryInput) {
+      type (QueryInput)
+      min (Required) max (One)
+    }
+  }
+  output (FoodResults)
+}

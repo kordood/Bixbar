@@ -1,0 +1,11 @@
+action (Recommand) {
+  type(Search)
+  description (추천해주는 action)
+  collect {
+    input (cocktailName) {
+      type (CocktailName)
+      min (Required) max (One)
+    }
+  }
+  output (Results)
+}

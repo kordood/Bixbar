@@ -1,0 +1,20 @@
+layout-macro-def(cocktail-list) {
+  params {
+    param (this) {
+      type (Results)
+      min (Required)
+      max (Many)
+    }
+  }
+
+  content {
+    section {  // this macro returns a "section"
+      content {
+        // paragraph {
+        //   //value ("#{value(__PARAM_NAME__)}")
+        //   style (Detail_M)
+        // }
+      }
+    }
+  }
+}

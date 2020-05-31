@@ -1,0 +1,73 @@
+result-view{
+match : BaseResults(this){
+	//	min (Required) max (Many)
+} 
+
+message{
+  //if (this[0].baseSpirit[0] == this[1].baseSpirit[0]){
+    template("Check all about #{value(this[0].baseSpirit[0])}!")
+  //}
+  
+}
+
+render{
+  if (size (this) == 1) {   //결과가 하나일때
+    layout-match (this) {     
+      mode (Details)
+    }
+  }
+  else{
+    layout{
+     for-each (this){ as(item){
+       section{
+          content {
+       image-card {
+         on-click
+         {
+           intent{
+             goal : playground.bixbar.BaseClickResults
+             route : BaseClickRecipe
+             value :  $expr(item.title)
+             
+           }
+         }
+         aspect-ratio (4:3)
+         title-area { halign (Start)
+           slot1 {
+             text { value ("#{value(item.title)}") style (Title_M) }
+             }
+           slot2 {
+             single-line {
+             text { value ("Base Spirit :  #{value(item.baseSpirit)}") style (Detail_L) }
+             }
+             }
+           }
+       image-url ("[#{value(item.img)}]")
+      }
+     }
+
+       }
+    
+     }
+     }
+    }
+  }
+}
+conversation-drivers{
+  if(size (this) <= 1){
+    conversation-driver {
+      template ("How can I make #{value(this[0].title)}")
+    }
+  }
+  else{
+    conversation-driver {
+      template ("Show me how to make #{value(this[0].title)}")
+    }
+    conversation-driver {
+      template ("Recipe of #{value(this[1].title)}")
+    }
+  }
+   
+  }
+}
+

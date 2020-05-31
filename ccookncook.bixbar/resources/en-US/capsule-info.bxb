@@ -1,0 +1,12 @@
+capsule-info {
+  display-name (Bixbar)
+  dispatch-name (Bixbar)
+  dispatch-aliases {
+    alias (bixbar)
+  }
+  developer-name (ccookncook)
+  icon-asset (/images/bixbartmplogo.png)
+  description ("__DESCRIPTION__")
+  website-url (https://example.com/)
+  terms-url (https://example.com/terms-of-use/)
+}

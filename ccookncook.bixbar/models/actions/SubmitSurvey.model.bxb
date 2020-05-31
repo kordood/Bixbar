@@ -1,0 +1,16 @@
+action (SubmitSurvey) {
+  description (An action that takes a required survey as an input)
+  type (Calculation)
+  collect {
+    
+    input (age) {
+      type (Age)
+      min (Required) max (One)
+    }
+    input (gender) {
+      type (Gender)
+      min (Required) max (One)
+    }
+  }
+  output (Survey)
+}

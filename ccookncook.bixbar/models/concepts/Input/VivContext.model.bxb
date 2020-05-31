@@ -1,0 +1,16 @@
+structure (VivContext) {
+  description (The value from $vivContext.)
+
+  property (gender) {
+    type (Gender)
+    min (Required) max (One)
+  }
+  property (age) {
+    type (Age)
+    min (Required) max (One)
+  }
+
+  property (userID){
+    type(UserID)
+  }
+}
