@@ -1,0 +1,5 @@
+action (CreateUser) {
+  description (__DESCRIPTION__)
+  type (Search)
+  output (User)
+}

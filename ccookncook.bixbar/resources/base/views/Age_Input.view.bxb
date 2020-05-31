@@ -9,6 +9,7 @@ input-view {
   }
   render {
     form {
+
       elements {
         number-input {
           id (age)

@@ -32,6 +32,13 @@ endpoints {
      }
 
 
+       // for httpPost & bixbUserID
+     action-endpoint (CreateUser) {
+       accepted-inputs ($vivContext)
+       local-endpoint (CreateUser.js)
+     }
+
+
     // action-endpoint (__ACTION_NAME__) {
     //   accepted-inputs (__LIST_OF_ACTION_INPUTS__)
     //   remote-endpoint (__ENDPOINT_URL__) {
