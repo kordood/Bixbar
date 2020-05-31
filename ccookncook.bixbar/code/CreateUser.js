@@ -2,11 +2,22 @@ var http = require('http')
 var console = require('console')
 var config = require('config')
 
-module.exports.function = function createUser ($vivContext) {
+module.exports.function = function createUser (survey, $vivContext) {
+  /*
+  //JSON.stringify($vivContext, undefined, 1);
+  //String bixbyUserId = $vivContext.bixbyUserId
+  userID = JSON.stringify($vivContext.bixbyUserId, undefined, 1);
+
+  return {
+    userID : userID,
+    gender: survey.gender,
+    age: survey.age,
+  };
+  */
   var user = {
-    "gender": "femail",
-    "age": "23",
-    "userId" : $vivContext.bixbyUserId,
+    "gender": survey.gender,
+    "age": survey.age,
+    "userID" : $vivContext.bixbyUserId,
   };
   var options = {
     passAsJson: true,

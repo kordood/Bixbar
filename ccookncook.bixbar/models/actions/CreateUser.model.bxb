@@ -1,5 +1,14 @@
 action (CreateUser) {
+
+  type (Commit)
   description (__DESCRIPTION__)
-  type (Search)
-  output (User)
+
+  collect {
+    input (survey) {
+      type (Survey)
+      min (Required)
+    }
+  }
+  
+  output (VivContext)
 }
