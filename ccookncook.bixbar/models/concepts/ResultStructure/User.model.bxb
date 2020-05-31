@@ -7,8 +7,8 @@ structure (User) {
     type (Age)
     min (Required)
   }
-  property (userId){
-    type (UserId)
+  property (userID){
+    type (UserID)
     min (Required)
   }
 }
