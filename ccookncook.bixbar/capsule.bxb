@@ -2,23 +2,23 @@ capsule {
   id (playground.bixbar)
   version (0.1.0)
   format (3)
-  // Request access permission to $vivContext.bixbyUserId, a secure user ID that is tied to a user's account and is the same across devices. The user has the ability to reset their user ID if they desire.
-  permissions {
-    bixby-user-id-access
-  }
+
   targets {
     target (bixby-mobile-en-US)
   }
-  store-countries {
-    all
+  permissions {
+    bixby-user-id-access
   }
+  store-countries{
+    all{}
+
   store-sections {
     section (EducationAndReference)
   }
   device-models{
     all{}
   }
-  runtime-version (4){
 
+  runtime-version (4){
   }
 }

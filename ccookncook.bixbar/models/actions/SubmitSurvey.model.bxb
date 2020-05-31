@@ -11,6 +11,14 @@ action (SubmitSurvey) {
       type (Gender)
       min (Required) max (One)
     }
+    
   }
   output (Survey)
 }
+
+// action (AccessVivContext) {
+//   type (Search)
+//   description (__DESCRIPTION__)
+//   output (VivContext)
+// }
+

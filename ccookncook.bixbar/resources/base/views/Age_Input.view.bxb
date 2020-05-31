@@ -9,9 +9,15 @@ input-view {
   }
   render {
     form {
-      
+
       elements {
-       
+        number-input {
+          id (age)
+          allow-negative (false)
+          integer-limit (3)
+          type (Age)
+          label (Age)
+        }
       }
       on-submit {
         goal: Age

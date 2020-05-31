@@ -1,4 +1,5 @@
-action (FoodRecommand) {
+action (FoodRecommand){
+  type(Search)
   description (recommand food action)
   collect {
     input (queryInput) {

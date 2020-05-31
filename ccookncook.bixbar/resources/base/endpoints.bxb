@@ -31,6 +31,7 @@ endpoints {
        local-endpoint (submitSurvey.js)
      }
 
+
        // for httpPost & bixbUserID
      action-endpoint (CreateUser) {
        accepted-inputs ($vivContext)
