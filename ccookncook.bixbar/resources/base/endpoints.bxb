@@ -21,14 +21,16 @@ endpoints {
        local-endpoint (recommandFood.js)
      }
 
-     action-endpoint (CreateUser) {
-       accepted-inputs (survey, $vivContext)
-       local-endpoint (createUser.js)
-     }
-
      action-endpoint (SubmitSurvey) {
        accepted-inputs (age, gender)
        local-endpoint (submitSurvey.js)
+     }
+
+
+       // for httpPost & bixbUserID
+     action-endpoint (CreateUser) {
+       accepted-inputs (survey, $vivContext)
+       local-endpoint (CreateUser.js)
      }
 
 
