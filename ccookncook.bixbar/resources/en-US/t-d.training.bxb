@@ -1,0 +1,10 @@
+train (t-d3wkf88h3rzox60iqted5z9na) {
+  utterance ("[g:BaseResults] I want to make a cocktail using (Champagne)[v:BaseSpirit]")
+  plan (Y2BmkC3ISaxML8ovzUvRS8qsSEos0nNKLE4NSi0uzSkpZpDCLu2TWVzCIINdLrggsyizhIGJgRGIGYAkIwMIMEEwAA==)
+  last-modified (1590497070345)
+}
+train (t-dik23o5bjbyudgubenxqhzqv0) {
+  utterance ("[g:BaseResults] Can I make cocktail with (Rum)[v:BaseSpirit] and (Vodka)[v:BaseSpirit]?")
+  plan (Y2BlkC3ISaxML8ovzUvRS8qsSEos0nNKLE4NSi0uzSkpZpDCLu2TWVzCIINdLrggsyiTMlkWBkYGJgZmIM0AZjEBSQYGHiBkAIoyQGQA)
+  last-modified (1590496281871)
+}

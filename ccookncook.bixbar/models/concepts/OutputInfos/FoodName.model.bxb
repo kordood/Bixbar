@@ -1,0 +1,3 @@
+text (FoodName) {
+  description (__DESCRIPTION__)
+}

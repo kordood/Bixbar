@@ -1,0 +1,11 @@
+action (BaseList) {
+  type(Search)
+  description (base spirit을 통한 검색 결과 출력)
+  collect {
+    input (baseSpirit) {
+      type (BaseSpirit)
+      min (Required) max (One)     //두개 이상의 base spirit에 대한 경우
+    }
+  }
+  output (BaseResults)
+}

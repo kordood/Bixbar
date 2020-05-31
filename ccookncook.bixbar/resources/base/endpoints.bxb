@@ -1,0 +1,59 @@
+endpoints {
+  action-endpoints {
+    
+     action-endpoint (Recommand) {
+       accepted-inputs (cocktailName)
+       local-endpoint (findbyCocktailName.js)
+     }
+
+     action-endpoint (BaseClickRecipe) {
+       accepted-inputs (cocktailName)
+       local-endpoint (findbyCocktailName.js)
+     }
+
+     action-endpoint (BaseList) {
+       accepted-inputs (baseSpirit)
+       local-endpoint (findbyBaseSpirit.js)
+     }
+
+     action-endpoint (FoodRecommand) {
+       accepted-inputs (queryInput)
+       local-endpoint (recommandFood.js)
+     }
+
+     action-endpoint (AccessVivContext) {
+       accepted-inputs (survey, $vivContext)
+       local-endpoint (accessVivContext.js)
+     }
+
+     action-endpoint (SubmitSurvey) {
+       accepted-inputs (age, gender)
+       local-endpoint (submitSurvey.js)
+     }
+
+
+       // for httpPost & bixbUserID
+     action-endpoint (CreateUser) {
+       accepted-inputs ($vivContext)
+       local-endpoint (CreateUser.js)
+     }
+
+
+    // action-endpoint (__ACTION_NAME__) {
+    //   accepted-inputs (__LIST_OF_ACTION_INPUTS__)
+    //   remote-endpoint (__ENDPOINT_URL__) {
+    //     method (__HTTP_METHOD_USED__)
+    //   }
+    // }
+  }
+}
+
+//remote endpoint 작성 예시
+// endpoints {
+//   action-endpoints {
+//     action-endpoint (FindShoeRemoteEndpoint) {
+//       accepted-inputs ()
+//       remote-endpoint ("{remote.url}/shoes") {
+//         method (GET)
+//       }
+//     }

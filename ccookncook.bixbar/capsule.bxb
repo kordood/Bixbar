@@ -1,0 +1,24 @@
+capsule {
+  id (playground.bixbar)
+  version (0.1.0)
+  format (3)
+
+  targets {
+    target (bixby-mobile-en-US)
+  }
+  permissions {
+    bixby-user-id-access
+  }
+  store-countries{
+    all{}
+
+  store-sections {
+    section (EducationAndReference)
+  }
+  device-models{
+    all{}
+  }
+
+  runtime-version (4){
+  }
+}

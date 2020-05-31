@@ -1,0 +1,10 @@
+hints {
+  uncategorized {
+    hint ("Ask Bixbar to teach me how to use"){
+      preferred-hint ("how to use")
+    }
+    hint ("Ask Bixbar to show me the recipe of Dry Martini"){
+      preferred-hint ("recipe")
+    }
+  }
+}

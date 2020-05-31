@@ -1,0 +1,11 @@
+action (BaseClickRecipe) {
+  type (Search)
+  description (base list 에서 해당 칵테일을 클릭했을 때)
+  collect {
+    input (cocktailName) {
+      type (CocktailName)
+      min (Optional) max (One)
+    } 
+  }
+  output (BaseClickResults)
+}

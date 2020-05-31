@@ -1,0 +1,31 @@
+structure (FoodResults) {
+  description (Results of Food Recommandation)
+  
+  property (id) {
+    type (Id)
+    min (Optional) max (One)
+  }
+
+  property (matchCocktails) {
+    type (MatchCocktails)
+    min (Optional) max (One)
+  }
+
+  property (foodsTitle) {
+    type (FoodName)
+    min (Optional) max (One)
+  }
+
+  property (ingFoods) {
+    type (IngFoods)
+    min (Optional) max (One)
+  }
+
+  property (ingFoodsUnit) {
+    type (IngFoodsUnit)
+    min (Optional) max (One)
+  }
+
+
+}
+  
