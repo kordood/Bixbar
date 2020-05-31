@@ -1,5 +1,11 @@
-module.exports.function = function accessVivContext ($vivContext) {
+module.exports.function = function accessVivContext (survey, $vivContext) {
   //JSON.stringify($vivContext, undefined, 1);
   //String bixbyUserId = $vivContext.bixbyUserId
-  return JSON.stringify($vivContext.bixbyUserId, undefined, 1);
+  userID = JSON.stringify($vivContext.bixbyUserId, undefined, 1);
+
+  return {
+    userID : userID,
+    gender: survey.gender,
+    age: survey.age,
+  };
 }

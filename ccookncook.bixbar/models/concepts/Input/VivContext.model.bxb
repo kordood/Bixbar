@@ -1,4 +1,6 @@
-structure (Survey) {
+structure (VivContext) {
+  description (The value from $vivContext.)
+
   property (gender) {
     type (Gender)
     min (Required) max (One)
@@ -8,4 +10,7 @@ structure (Survey) {
     min (Required) max (One)
   }
 
+  property (userID){
+    type(UserID)
+  }
 }

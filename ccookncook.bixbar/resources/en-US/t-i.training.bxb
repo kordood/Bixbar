@@ -1,0 +1,5 @@
+train (t-iocpy5ug89qc868k7jx5ny5v8) {
+  utterance ("[g:FoodResults] I want some food with (Beer)[v:QueryInput]")
+  plan (Y2BmkE1Ozs/PzgMRekmZFUmJRXpu+fkpQanFpTklxQzyuKST83NzE/NSGGQwFQSWphZVeuYVlJYwMDEwAjEDkGRkAAEmCAYA)
+  last-modified (1584532657600)
+}
