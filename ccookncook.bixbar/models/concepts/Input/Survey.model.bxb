@@ -1,6 +1,6 @@
 structure (Survey) {
-  property (gender) {
-    type (Gender)
+  property (isGender) {
+    type (IsGender)
     min (Required) max (One)
   }
   property (age) {

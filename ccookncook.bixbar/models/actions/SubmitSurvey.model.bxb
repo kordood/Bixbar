@@ -7,8 +7,8 @@ action (SubmitSurvey) {
       type (Age)
       min (Required) max (One)
     }
-    input (gender) {
-      type (Gender)
+    input (isGender) {
+      type (IsGender)
       min (Required) max (One)
     }
     
