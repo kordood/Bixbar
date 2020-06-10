@@ -6,14 +6,20 @@
 
 ## code
 
-- findbyBaseSpirit.js
-  칵테일 베이스로 검색
+- submitSurvey.js
+  - user의 Age, Gender를 받아온다.
+
+- createUser.js
+  - bixbyUser
+
+- findbyBaseSpirit.js  
+  - 칵테일 베이스로 검색
 
 - findbyCocktailName.js
-  칵테일 이름으로 검색
+  - 칵테일 이름으로 검색
 
 - recommandFood.js
-  칵테일과 어울리는 음식 검색
+  - 칵테일과 어울리는 음식 검색
 
 ## models
 
