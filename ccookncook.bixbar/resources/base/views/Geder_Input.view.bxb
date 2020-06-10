@@ -1,6 +1,6 @@
 input-view {
   match {
-    Gender (gender) { 
+    IsGender (isGender) { 
       to-input: SubmitSurvey
     }
   }
@@ -10,17 +10,23 @@ input-view {
   render {
     form {
       elements {
-        text-input {
-          id (gender)
-          label (Gender)
-          type (Gender)
-          max-length (10)
-          value ("#{raw(gender)}")
+        checkbox {
+          id (isMale)
+          type (viv.core.Boolean)
+          primary-text("Male")
+        }
+        checkbox {
+          id (isFemale)
+          type (viv.core.Boolean)
+          primary-text("Female")
         }
       }
       on-submit {
-        goal: Gender
-        value: viv.core.FormElement(gender)
+        goal: IsGender
+        value: IsGender{
+          isMale : viv.core.FormElement(isMale)
+          isFemale : viv.core.FormElement(isFemale)
+        }
       }
     }
   }

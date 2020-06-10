@@ -1,8 +1,7 @@
-module.exports.function = function submitSurvey (gender, age) {
-
+module.exports.function = function submitSurvey (isGender, age) {
   
   return {
-    gender: gender,
+    isGender: isGender,
     age: age,
   };
 }
