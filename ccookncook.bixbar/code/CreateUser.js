@@ -19,7 +19,7 @@ module.exports.function = function createUser (survey, $vivContext) {
     "userID" : $vivContext.bixbyUserId,
     };
   }
-
+  
   var options = {
     passAsJson: true,
     returnHeaders: true,
