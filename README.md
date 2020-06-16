@@ -1,17 +1,24 @@
 # Bixbar
 > Notion : https://www.notion.so/ccookncook/Bixbar-b5401104a0d64fdc838d27505fbf27b2
+
 - **crawling**
   - main.py를 실행하여 크롤링이 실행
   - "(칵테일명).json" 파일 json 폴더 안에 생성
+  
 - **ccookncook.bixbar**
   - bixby 캡슐
+  
 - **food pair**
   - food - cocktail pair를 위한 csv
+  
+<br/>
 
 # Bixbar Interface
 ![Untitled](https://user-images.githubusercontent.com/28800101/84741772-84984080-afea-11ea-92ce-838ade42cb94.png)
 ![Untitled2](https://user-images.githubusercontent.com/28800101/84741776-85c96d80-afea-11ea-95b9-5824de92b433.png)
 ![Untitled3](https://user-images.githubusercontent.com/28800101/84741778-86620400-afea-11ea-8e79-cbab30488b2d.png)
+
+<br/>
 
 # 주요기능
 
@@ -27,9 +34,13 @@
 
   - 칵테일-안주 페어링 정보에서 가장 높은 정확도를 보이는 안주 추천
 
+<br/>
+
 # About Project
 
-숭실대학교 소프트웨어학부 2019-2 ~ 2020-1 캡스톤디자인종합프로젝트
+> 숭실대학교 소프트웨어학부 2019-2 ~ 2020-1 캡스톤디자인종합프로젝트
+
+<br/>
 
 # 팀 구성
 
@@ -42,6 +53,8 @@
 - **[최민성](http://github.com/kordood)**
   - Django 웹서버 구축, Bixby와의 통신(Response) 구현
   
+ <br/>
+ 
 # Project Architecture
 - **시스템 대블록 설계**
 
@@ -54,6 +67,8 @@
 - **Flow Chart**
 
 ![Bixby_FlowChart0](https://user-images.githubusercontent.com/28800101/84741784-87933100-afea-11ea-9792-230548c76ac6.png)
+
+<br/>
 
 # 개발환경
 
