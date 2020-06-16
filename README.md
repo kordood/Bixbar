@@ -8,6 +8,13 @@
 - **food pair**
   - food - cocktail pair를 위한 csv
 
+# Bixbar Interface
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7f70e435-9c7c-4b15-b816-438d8606d26d/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7f70e435-9c7c-4b15-b816-438d8606d26d/Untitled.png)
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7de232c6-4bf0-4a8f-8ab7-c850f660eb07/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7de232c6-4bf0-4a8f-8ab7-c850f660eb07/Untitled.png)
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/74d73f59-6527-4fe5-a6a8-647723913cc0/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/74d73f59-6527-4fe5-a6a8-647723913cc0/Untitled.png)
+
 # 주요기능
 
 - **칵테일 제조법 전달**
@@ -36,6 +43,16 @@
   - Bixby NLP Training, 캡슐 설계, Modeling구현, 디자인, 웹서버와의 통신 구현
 - **[최민성](http://github.com/kordood)**
   - Django 웹서버 구축, Bixby와의 통신(Response) 구현
+  
+# Project Architecture
+- 시스템 대블록 설계
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7c2da5fc-51e2-4b3c-bfe5-e0cc2491a168/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7c2da5fc-51e2-4b3c-bfe5-e0cc2491a168/Untitled.png)
+
+- Database
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/48a24386-a001-4146-8744-2a4dcef53b78/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/48a24386-a001-4146-8744-2a4dcef53b78/Untitled.png)
+
+- Flow Chart
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e8f3b73d-1cf9-4994-a3cd-2c91e7ee4a20/Bixby_FlowChart0.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e8f3b73d-1cf9-4994-a3cd-2c91e7ee4a20/Bixby_FlowChart0.png)
 
 # 개발환경
 
