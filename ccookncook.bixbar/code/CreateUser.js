@@ -22,10 +22,12 @@ module.exports.function = function createUser (survey, $vivContext) {
   var options = {
     passAsJson: true,
     returnHeaders: true,
-    format: 'json'
+    format: 'json',
   };
-  var response = http.postUrl(config.get('remote.url') + '/user', user, options);
-
-  console.log(response);
-  return response.parsed;
+  //var response = http.postUrl(config.get('remote.url') + '/user', user, options);
+  
+  var response = http.postUrl('http://www.bixbar.com/user', user, options);
+  console.log("response : " + response);
+  console.log("response.parsed : " + response.parsed)
+  return user//response.parsed;
 }

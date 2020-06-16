@@ -1,4 +1,5 @@
 train (t-xenf6a4j72ku61pdbvko1dv9c) {
   utterance ([g:CreateUser] Create a User)
-  last-modified (1590507226525)
+  enabled (false)
+  last-modified (1590930790189)
 }

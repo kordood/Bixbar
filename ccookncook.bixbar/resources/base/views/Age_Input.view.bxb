@@ -8,17 +8,23 @@ input-view {
     template ("What is your age?")
   }
   render {
+   
+    
     form {
 
-      elements {
-        number-input {
-          id (age)
-          allow-negative (false)
-          integer-limit (3)
+       elements {
+        slider {
+          id (Age)
+          min-value (20)
+          max-value (100)
+          min-label (20 - Lowest)
+          max-label (100 - Highest)
+          step (1)
           type (Age)
-          label (Age)
+          value ("#{raw(age)}")
+
         }
-      }
+       }
       on-submit {
         goal: Age
         value: viv.core.FormElement(age)

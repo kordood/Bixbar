@@ -13,7 +13,7 @@ module.exports.function = function recommandFood (queryInput) {
 
   var response = null;
    
-  const baseURL = "http://bixbar.run.goorm.io/getfood/?q=";
+  const baseURL = "http://www.bixbar.com/getfood/?q=";
  
   if(queryInput.length == 0){
     throw fail.checkedError("No Result", "NoResult");
