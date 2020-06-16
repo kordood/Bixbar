@@ -9,11 +9,9 @@
   - food - cocktail pair를 위한 csv
 
 # Bixbar Interface
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7f70e435-9c7c-4b15-b816-438d8606d26d/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7f70e435-9c7c-4b15-b816-438d8606d26d/Untitled.png)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7de232c6-4bf0-4a8f-8ab7-c850f660eb07/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7de232c6-4bf0-4a8f-8ab7-c850f660eb07/Untitled.png)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/74d73f59-6527-4fe5-a6a8-647723913cc0/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/74d73f59-6527-4fe5-a6a8-647723913cc0/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/28800101/84741772-84984080-afea-11ea-92ce-838ade42cb94.png)
+![Untitled2](https://user-images.githubusercontent.com/28800101/84741776-85c96d80-afea-11ea-95b9-5824de92b433.png)
+![Untitled3](https://user-images.githubusercontent.com/28800101/84741778-86620400-afea-11ea-8e79-cbab30488b2d.png)
 
 # 주요기능
 
