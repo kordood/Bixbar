@@ -14,11 +14,7 @@ input-view {
 
        elements {
         slider {
-<<<<<<< HEAD
-          id (Age)
-=======
           id (age)
->>>>>>> 89af87ac74e31c75bd77e4ae5baca1eeb9c43d69
           min-value (20)
           max-value (100)
           min-label (20 - Lowest)

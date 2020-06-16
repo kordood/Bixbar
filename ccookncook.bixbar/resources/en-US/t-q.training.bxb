@@ -1,10 +1,5 @@
 train (t-qpb6f7f2rcz8fgw62d0bs5mpl) {
-<<<<<<< HEAD
   utterance ("[g:CreateUser] age (24,)[v:Age] (Female)[v:Gender] recommand")
   enabled (false)
   last-modified (1590930737108)
-=======
-  utterance ("[g:CreateUser] age (24,)[v:Age] (Female)[v:IsGender] recommand")
-  last-modified (1590911597820)
->>>>>>> 89af87ac74e31c75bd77e4ae5baca1eeb9c43d69
 }
