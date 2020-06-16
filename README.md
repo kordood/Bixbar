@@ -9,7 +9,9 @@
   - food - cocktail pair를 위한 csv
 
 # Bixbar Interface
-![Untitled](https://user-images.githubusercontent.com/28800101/84741772-84984080-afea-11ea-92ce-838ade42cb94.png) ![Untitled2](https://user-images.githubusercontent.com/28800101/84741776-85c96d80-afea-11ea-95b9-5824de92b433.png)  ![Untitled3](https://user-images.githubusercontent.com/28800101/84741778-86620400-afea-11ea-8e79-cbab30488b2d.png)
+![Untitled](https://user-images.githubusercontent.com/28800101/84741772-84984080-afea-11ea-92ce-838ade42cb94.png)
+![Untitled2](https://user-images.githubusercontent.com/28800101/84741776-85c96d80-afea-11ea-95b9-5824de92b433.png)
+![Untitled3](https://user-images.githubusercontent.com/28800101/84741778-86620400-afea-11ea-8e79-cbab30488b2d.png)
 
 # 주요기능
 
@@ -41,15 +43,15 @@
   - Django 웹서버 구축, Bixby와의 통신(Response) 구현
   
 # Project Architecture
-- 시스템 대블록 설계
+- **시스템 대블록 설계**
 
 ![Untitled4](https://user-images.githubusercontent.com/28800101/84741780-86fa9a80-afea-11ea-9395-e4caf4ef2994.png)
 
-- Database
+- **Database**
 
 ![Untitled5](https://user-images.githubusercontent.com/28800101/84741783-86fa9a80-afea-11ea-89e2-1c7763c18c66.png)
 
-- Flow Chart
+- **Flow Chart**
 
 ![Bixby_FlowChart0](https://user-images.githubusercontent.com/28800101/84741784-87933100-afea-11ea-9792-230548c76ac6.png)
 
