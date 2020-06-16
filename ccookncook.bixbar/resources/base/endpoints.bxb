@@ -22,16 +22,18 @@ endpoints {
      }
 
      action-endpoint (SubmitSurvey) {
-       accepted-inputs (age, gender)
+       accepted-inputs (age, isGender)
        local-endpoint (submitSurvey.js)
      }
 
 
-       // for httpPost & bixbUserID
+     // for httpPost & bixbUserID
      action-endpoint (CreateUser) {
        accepted-inputs (survey, $vivContext)
        local-endpoint (CreateUser.js)
      }
+
+     
 
 
     // action-endpoint (__ACTION_NAME__) {

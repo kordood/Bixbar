@@ -1,6 +1,6 @@
 structure (User) {
-  property (gender){
-    type (Gender)
+  property (isGender){
+    type (IsGender)
     min (Required)
   }
   property (age){

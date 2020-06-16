@@ -3,22 +3,23 @@ var console = require('console')
 var config = require('config')
 
 module.exports.function = function createUser (survey, $vivContext) {
-  /*
-  //JSON.stringify($vivContext, undefined, 1);
-  //String bixbyUserId = $vivContext.bixbyUserId
-  userID = JSON.stringify($vivContext.bixbyUserId, undefined, 1);
 
-  return {
-    userID : userID,
-    gender: survey.gender,
-    age: survey.age,
-  };
-  */
-  var user = {
-    "gender": survey.gender,
+  var user;
+  if(survey.isGender["isMale"] == true){
+    user = {
+    "gender": "Male",
     "age": survey.age,
     "userID" : $vivContext.bixbyUserId,
-  };
+    };
+  }  
+  else{
+    user = {
+    "gender": "Female",
+    "age": survey.age,
+    "userID" : $vivContext.bixbyUserId,
+    };
+  }
+  
   var options = {
     passAsJson: true,
     returnHeaders: true,
