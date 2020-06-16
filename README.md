@@ -10,7 +10,9 @@
 
 # Bixbar Interface
 ![Untitled](https://user-images.githubusercontent.com/28800101/84741772-84984080-afea-11ea-92ce-838ade42cb94.png)
+
 ![Untitled2](https://user-images.githubusercontent.com/28800101/84741776-85c96d80-afea-11ea-95b9-5824de92b433.png)
+
 ![Untitled3](https://user-images.githubusercontent.com/28800101/84741778-86620400-afea-11ea-8e79-cbab30488b2d.png)
 
 # 주요기능
@@ -44,13 +46,13 @@
   
 # Project Architecture
 - 시스템 대블록 설계
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7c2da5fc-51e2-4b3c-bfe5-e0cc2491a168/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7c2da5fc-51e2-4b3c-bfe5-e0cc2491a168/Untitled.png)
+![Untitled4](https://user-images.githubusercontent.com/28800101/84741780-86fa9a80-afea-11ea-9395-e4caf4ef2994.png)
 
 - Database
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/48a24386-a001-4146-8744-2a4dcef53b78/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/48a24386-a001-4146-8744-2a4dcef53b78/Untitled.png)
+![Untitled5](https://user-images.githubusercontent.com/28800101/84741783-86fa9a80-afea-11ea-89e2-1c7763c18c66.png)
 
 - Flow Chart
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e8f3b73d-1cf9-4994-a3cd-2c91e7ee4a20/Bixby_FlowChart0.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e8f3b73d-1cf9-4994-a3cd-2c91e7ee4a20/Bixby_FlowChart0.png)
+![Bixby_FlowChart0](https://user-images.githubusercontent.com/28800101/84741784-87933100-afea-11ea-9792-230548c76ac6.png)
 
 # 개발환경
 
