@@ -20,7 +20,7 @@ module.exports.function = function findbyCocktailName (cocktailName) {
 
   var response = null;
    
-  const baseURL = "http://bixbar.run.goorm.io/cocktail/?q=";
+  const baseURL = "http://www.bixbar.com/cocktail/?q=";
  
   if(cocktailName.length == 0){
     throw fail.checkedError("No Result", "NoResult");

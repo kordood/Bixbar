@@ -13,7 +13,7 @@ module.exports.function = function recommandbyBaseSpirit (baseSpirit) {
 
   var response = null;
    
-  const baseURL = "http://bixbar.run.goorm.io/base/?q=";
+  const baseURL = "http://www.bixbar.com/base/?q=";
  
   if(baseSpirit.length == 0){
     throw fail.checkedError("No Result", "NoResult");
