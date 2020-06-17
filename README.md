@@ -1,15 +1,5 @@
 # Bixbar
 > Notion : https://www.notion.so/ccookncook/Bixbar-b5401104a0d64fdc838d27505fbf27b2
-
-- **crawling**
-  - main.py를 실행하여 크롤링이 실행
-  - "(칵테일명).json" 파일 json 폴더 안에 생성
-  
-- **ccookncook.bixbar**
-  - bixby 캡슐
-  
-- **food pair**
-  - food - cocktail pair를 위한 csv
   
 <br/>
 
@@ -79,7 +69,9 @@
 
 - **Server & DB**
 
-  - Goorm IDE
+  - ~~Goorm IDE~~
+  - AWS
+  - Django
   - Python 3.7
   - SQLite
 
