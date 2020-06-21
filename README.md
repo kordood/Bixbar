@@ -1,8 +1,10 @@
 # Bixbar
 > Notion : https://www.notion.so/ccookncook/Bixbar-b5401104a0d64fdc838d27505fbf27b2
 
-- **[Bixbar](https://github.com/kordood/Bixbar/tree/master/Bixbar)** : Server
-- **[ccookncook.bixbar](https://github.com/kordood/Bixbar/tree/master/ccookncook.bixbar)** : Bixby
+- **[Bixbar](https://github.com/kordood/Bixbar/tree/master/Bixbar)**
+  - Server
+- **[ccookncook.bixbar](https://github.com/kordood/Bixbar/tree/master/ccookncook.bixbar)**
+  - Bixby
 
 <br/>
 
