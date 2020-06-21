@@ -1,0 +1,11 @@
+action (Personalize) {
+  description (personalize cocktail recommandation)
+  type(Search)
+  // collect {
+  //   input ($vivContext) {
+  //     type (__INPUT_TYPE__)
+  //     min (Optional) max (One)
+  //   }
+  // }
+  output (PerResults)
+}

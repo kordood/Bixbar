@@ -1,0 +1,110 @@
+result-view{
+  match : VivContext(this){
+  }
+
+  render{
+    layout{
+      section{
+        content{
+          paragraph{
+            value("Your information is well received.")
+            style(Title_S)
+          }
+        }
+      }
+      section{
+        content{
+          hbox{
+            content{
+              vbox{
+                content{
+                  single-line{
+                    text{
+                      value("Gender")
+                      style(Detail_L_Soft)
+                    }
+                  }
+                }
+              }
+              vbox{
+                content{
+                  single-line{
+                    text{
+                      value("#{value(this.gender)}")
+                      style(Detail_L)
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+      section{
+        content{
+          hbox{
+            content{
+              vbox{
+                content{
+                  single-line{
+                    text{
+                      value("Age")
+                      style(Detail_L_Soft)
+                    }
+                  }
+                }
+              }
+              vbox{
+                content{
+                  single-line{
+                    text{
+                      value("#{value(this.age)}")
+                      style(Detail_L)
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+      section{
+        content{
+          hbox{
+            content{
+              vbox{
+                content{
+                  single-line{
+                    text{
+                      value("User ID")
+                      style(Detail_L_Soft)
+                    }
+                  }
+                }
+              }
+              vbox{
+                content{
+                  single-line{
+                    text{
+                      value("Your private ID is well encrypted.")
+                      style(Detail_L)
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+      section{
+        content{
+          image {
+               //aspect-ratio (4:3)
+               url("https://assets.dryicons.com/uploads/icon/svg/3779/user_lock.svg")
+               object-fit (Contain)
+          }
+        }
+      }
+    }
+  }
+}

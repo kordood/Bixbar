@@ -1,0 +1,5 @@
+train (t-x5rbljsmj2y9sjatx3awiwjxa) {
+  utterance ([g:Personalize] Recommend me a cocktail)
+  plan (Y2BikCnISaxML8ovzUvRS8qsSEos0gtILQpKLS7NKSlmkMUqW5yfl5iTWZXKwAiEDFAMJAE=)
+  last-modified (1592724508208)
+}
