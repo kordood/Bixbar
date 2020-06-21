@@ -1,0 +1,588 @@
+ITEM_ID,ITEM_NAME,FLAVOR,BASE_SPIRIT,COCKTAIL_TYPE,SERVED,PREPARATION,STRENGTH,DIFFICULTY,BRANDS
+1,50-50 Martini,Spirit-forward,Vodka,Classics,Neat/Up,Stirred,Strong,Simple,La Quintinye Vermouth Royal
+1,50-50 Martini,Spirit-forward,Vodka,	Martinis,Neat/Up,Stirred,Strong,Simple,La Quintinye Vermouth Royal
+2,All-PurposeEggnog,Creamy,Rum,Classics,Neat/Up,Stirred,Light,Medium,None
+2,All-PurposeEggnog,Creamy,Rum,Punches,Neat/Up,Stirred,Light,Medium,None
+3,Aristocrat,Bubbly,Liqueurs,Modern Classics,Neat/Up,Poured,Medium,Simple,None
+4,Ascot,Spirit-forward,Cognac,Modern Classics,Neat/Up,Stirred,Strong,Medium,Carpano Antica
+4,Ascot,Spirit-forward,Cognac,Modern Classics,Neat/Up,Stirred,Strong,Medium,Dolin
+4,Ascot,Spirit-forward,Cognac,Modern Classics,Neat/Up,Stirred,Strong,Medium,Pierre Ferrand
+4,Ascot,Spirit-forward,Cognac,Modern Classics,Neat/Up,Stirred,Strong,Medium,Ultimat
+4,Ascot,Spirit-forward,Vodka,Modern Classics,Neat/Up,Stirred,Strong,Medium,Carpano Antica
+4,Ascot,Spirit-forward,Vodka,Modern Classics,Neat/Up,Stirred,Strong,Medium,Dolin
+4,Ascot,Spirit-forward,Vodka,Modern Classics,Neat/Up,Stirred,Strong,Medium,Pierre Ferrand
+4,Ascot,Spirit-forward,Vodka,Modern Classics,Neat/Up,Stirred,Strong,Medium,Ultimat
+5,AudreySaundersTomJerry,Creamy,Cognac,Classics,Hot/Warm,Cooked/Heated,Medium,Medium,Pierre Ferrand
+5,AudreySaundersTomJerry,Creamy,Cognac,Classics,Hot/Warm,Cooked/Heated,Medium,Medium,Plantation
+5,AudreySaundersTomJerry,Sweet,Cognac,Classics,Hot/Warm,Cooked/Heated,Medium,Medium,Pierre Ferrand
+5,AudreySaundersTomJerry,Sweet,Cognac,Classics,Hot/Warm,Cooked/Heated,Medium,Medium,Plantation
+5,AudreySaundersTomJerry,Creamy,Rum,Classics,Hot/Warm,Cooked/Heated,Medium,Medium,Pierre Ferrand
+5,AudreySaundersTomJerry,Creamy,Rum,Classics,Hot/Warm,Cooked/Heated,Medium,Medium,Plantation
+5,AudreySaundersTomJerry,Sweet,Rum,Classics,Hot/Warm,Cooked/Heated,Medium,Medium,Pierre Ferrand
+5,AudreySaundersTomJerry,Sweet,Rum,Classics,Hot/Warm,Cooked/Heated,Medium,Medium,Plantation
+6,Aviation,Fruity/Citrus-forward,Gin,Classics,Neat/Up,Shaken,Strong,Simple,Oxley
+6,Aviation,Fruity/Citrus-forward,Gin,Classics,Neat/Up,Shaken,Strong,Simple,Yvette
+6,Aviation,Spirit-forward,Gin,Classics,Neat/Up,Shaken,Strong,Simple,Oxley
+6,Aviation,Spirit-forward,Gin,Classics,Neat/Up,Shaken,Strong,Simple,Yvette
+6,Aviation,Sweet,Gin,Classics,Neat/Up,Shaken,Strong,Simple,Oxley
+6,Aviation,Sweet,Gin,Classics,Neat/Up,Shaken,Strong,Simple,Yvette
+7,B-52,Creamy,Liqueurs,Shots,Neat/Up,None,Strong,Complicated,Bailey's
+7,B-52,Spirit-forward,Liqueurs,Shots,Neat/Up,None,Strong,Complicated,Bailey's
+7,B-52,Creamy,Liqueurs,Shots,Neat/Up,None,Strong,Complicated,Grand Marnier
+7,B-52,Spirit-forward,Liqueurs,Shots,Neat/Up,None,Strong,Complicated,Grand Marnier
+7,B-52,Creamy,Liqueurs,Shots,Neat/Up,None,Strong,Complicated,Kahlua
+7,B-52,Spirit-forward,Liqueurs,Shots,Neat/Up,None,Strong,Complicated,Kahlua
+8,BananaSurfer,Fruity/Citrus-forward,Brandy,Tiki / Tropical,On the Rocks,Shaken,Medium,Complicated,Hennessy
+8,BananaSurfer,Fruity/Citrus-forward,Cognac,Tiki / Tropical,On the Rocks,Shaken,Medium,Complicated,Hennessy
+8,BananaSurfer,Fruity/Citrus-forward,Rum,Tiki / Tropical,On the Rocks,Shaken,Medium,Complicated,Hennessy
+9,BayouBloodyMary,Salty/Savory,Vodka,Classics,On the Rocks,Stirred,Light,Simple,Grey Goose
+9,BayouBloodyMary,Spicy,Vodka,Classics,On the Rocks,Stirred,Light,Simple,Grey Goose
+9,BayouBloodyMary,Salty/Savory,Vodka,Classics,On the Rocks,Stirred,Light,Simple,Tabasco
+9,BayouBloodyMary,Spicy,Vodka,Classics,On the Rocks,Stirred,Light,Simple,Tabasco
+10,BentonsOldFashioned,Salty/Savory,Bourbon / American Whiskey,Modern Classics,On the Rocks,Stirred,Medium,Complicated,Angostura
+10,BentonsOldFashioned,Salty/Savory,Whiskey,Modern Classics,On the Rocks,Stirred,Medium,Complicated,Angostura
+10,BentonsOldFashioned,Salty/Savory,Bourbon / American Whiskey,Modern Classics,On the Rocks,Stirred,Medium,Complicated,Four Roses
+10,BentonsOldFashioned,Salty/Savory,Whiskey,Modern Classics,On the Rocks,Stirred,Medium,Complicated,Four Roses
+11,BigRed,Spirit-forward,Beer,Modern Classics,On the Rocks,Stirred,Medium,Simple,Budweiser
+11,BigRed,Spirit-forward,Scotch,Modern Classics,On the Rocks,Stirred,Medium,Simple,Budweiser
+11,BigRed,Spirit-forward,Beer,Modern Classics,On the Rocks,Stirred,Medium,Simple,Johnnie Walker
+11,BigRed,Spirit-forward,Scotch,Modern Classics,On the Rocks,Stirred,Medium,Simple,Johnnie Walker
+12,BlackberryMintJulepMargarita,Fruity/Citrus-forward,Tequila,Margaritas,On the Rocks,Shaken,Medium,Medium,Patrón
+13,BloodyBulldog,Salty/Savory,Gin,Classics,On the Rocks,Stirred,Medium,Medium,Bulldog
+13,BloodyBulldog,Spicy,Gin,Classics,On the Rocks,Stirred,Medium,Medium,Bulldog
+14,BloodyKirby,Salty/Savory,Vermouth / Aperitif Wine,Modern Classics,On the Rocks,None,Medium,Complicated,Grey Goose
+14,BloodyKirby,Vodka,Vermouth / Aperitif Wine,Modern Classics,On the Rocks,None,Medium,Complicated,Grey Goose
+15,BloodyMaria,Salty/Savory,Tequila,Classics,On the Rocks,Shaken,Medium,Medium,Patrón
+15,BloodyMaria,Spicy,Tequila,Classics,On the Rocks,Shaken,Medium,Medium,Patrón
+16,BloodyMary,Salty/Savory,Vodka,Classics,On the Rocks,Shaken,Light,Complicated,Absolut
+16,BloodyMary,	Sour,Vodka,Classics,On the Rocks,Shaken,Light,Complicated,Absolut
+16,BloodyMary,	Spicy,Vodka,Classics,On the Rocks,Shaken,Light,Complicated,Absolut
+17,BloodyRoman,	Salty/Savory,	Beer,	Modern Classics,	Neat/Up,	None,	Light,Complicated,Anchor
+17,BloodyRoman,	Spicy,	Beer,	Modern Classics,	Neat/Up,	None,	Light,Complicated,Anchor
+18,BlowJob,	Creamy,	Amaretto,	Modern Classics,	Neat/Up,	Poured,	Medium,	Simple,None
+18,BlowJob,	Creamy,	Amaretto,Shots,	Neat/Up,	Poured,	Medium,	Simple,None
+18,BlowJob,Sweet,	Amaretto,	Modern Classics,	Neat/Up,	Poured,	Medium,	Simple,None
+18,BlowJob,Sweet,	Amaretto,Shots,	Neat/Up,	Poured,	Medium,	Simple,None
+19,BlueBlazer,Sweet,Scotch,Classics,Hot/Warm,Cooked/Heated,	Strong,	Medium,None
+20,BoatHousePunch,Bubbly,Gin,Punches,On the Rocks,Stirred,Medium,Complicated,Aperol
+20,BoatHousePunch,Fruity/Citrus-forward,Gin,Punches,On the Rocks,Stirred,Medium,Complicated,Aperol
+20,BoatHousePunch,Sweet,Gin,Punches,On the Rocks,Stirred,Medium,Complicated,Aperol
+20,BoatHousePunch,Bubbly,Gin,Punches,On the Rocks,Stirred,Medium,Complicated,Dorothy Parker Gin
+20,BoatHousePunch,Fruity/Citrus-forward,Gin,Punches,On the Rocks,Stirred,Medium,Complicated,Dorothy Parker Gin
+20,BoatHousePunch,Sweet,Gin,Punches,On the Rocks,Stirred,Medium,Complicated,Dorothy Parker Gin
+20,BoatHousePunch,Bubbly,Gin,Punches,On the Rocks,Stirred,Medium,Complicated,st. germain
+20,BoatHousePunch,Fruity/Citrus-forward,Gin,Punches,On the Rocks,Stirred,Medium,Complicated,st. germain
+20,BoatHousePunch,Sweet,Gin,Punches,On the Rocks,Stirred,Medium,Complicated,st. germain
+21,Boulevardier,Spirit-forward,Bourbon / American Whiskey,Classics,Neat/Up,Stirred,Medium,Medium,Bulleit
+21,Boulevardier,Sweet,Bourbon / American Whiskey,Classics,Neat/Up,Stirred,Medium,Medium,Bulleit
+21,Boulevardier,Spirit-forward,Bourbon / American Whiskey,Classics,Neat/Up,Stirred,Medium,Medium,Campari
+21,Boulevardier,Sweet,Bourbon / American Whiskey,Classics,Neat/Up,Stirred,Medium,Medium,Campari
+22,BourbonCiderSlushie,Sweet,Bourbon / American Whiskey,Frozen / Blended,Frozen,Blended,Medium,Medium,None
+22,BourbonCiderSlushie,Sweet,Whiskey,Frozen / Blended,Frozen,Blended,Medium,Medium,None
+23,BourbonLift,Bubbly,Bourbon / American Whiskey,Modern Classics,Neat/Up,Shaken,Medium,Medium,Bulleit
+23,BourbonLift,Creamy,Bourbon / American Whiskey,Modern Classics,Neat/Up,Shaken,Medium,Medium,Bulleit
+23,BourbonLift,Sweet,Bourbon / American Whiskey,Modern Classics,Neat/Up,Shaken,Medium,Medium,Bulleit
+23,BourbonLift,Bubbly,Bourbon / American Whiskey,Modern Classics,Neat/Up,Shaken,Medium,Medium,House Spirits	
+23,BourbonLift,Creamy,Bourbon / American Whiskey,Modern Classics,Neat/Up,Shaken,Medium,Medium,House Spirits	
+23,BourbonLift,Sweet,Bourbon / American Whiskey,Modern Classics,Neat/Up,Shaken,Medium,Medium,House Spirits	
+24,BourbonManhattan,Spirit-forward,Bourbon / American Whiskey,Classics,Neat/Up,Stirred,Strong,Medium,Bulleit
+25,BourbonOldFashioned,Spirit-forward,Bourbon / American Whiskey,Classics,On the Rocks,None,Medium,Medium,Wild Turkey 101
+25,BourbonOldFashioned,Sweet,Bourbon / American Whiskey,Classics,On the Rocks,None,Medium,Medium,Wild Turkey 101
+25,BourbonOldFashioned,Spirit-forward,Whiskey,Classics,On the Rocks,None,Medium,Medium,Wild Turkey 101
+25,BourbonOldFashioned,Sweet,Whiskey,Classics,On the Rocks,None,Medium,Medium,Wild Turkey 101
+26,BourbonRootBeer,Sweet,Bourbon / American Whiskey,Modern Classics,On the Rocks,Stirred,Medium,Simple,None
+26,BourbonRootBeer,Sweet,Whiskey,Modern Classics,On the Rocks,Stirred,Medium,Simple,None
+27,BourbonRosemaryPunch,Herbaceous,Bourbon / American Whiskey,Punches,On the Rocks,None,Medium,Medium,Aperol
+27,BourbonRosemaryPunch,Sweet,Bourbon / American Whiskey,Punches,On the Rocks,None,Medium,Medium,Aperol
+27,BourbonRosemaryPunch,Herbaceous,Whiskey,Punches,On the Rocks,None,Medium,Medium,Aperol
+27,BourbonRosemaryPunch,Sweet,Whiskey,Punches,On the Rocks,None,Medium,Medium,Aperol
+28,BourbonStrawberryIcedTea,Fruity/Citrus-forward,Bourbon / American Whiskey,Modern Classics,On the Rocks,Shaken,Medium,Medium,George Dickel
+28,BourbonStrawberryIcedTea,Sweet,Bourbon / American Whiskey,Modern Classics,On the Rocks,Shaken,Medium,Medium,George Dickel
+28,BourbonStrawberryIcedTea,Fruity/Citrus-forward,Whiskey,Modern Classics,On the Rocks,Shaken,Medium,Medium,George Dickel
+28,BourbonStrawberryIcedTea,Sweet,Whiskey,Modern Classics,On the Rocks,Shaken,Medium,Medium,George Dickel
+29,Bramble,Fruity/Citrus-forward,Gin,Classics,On the Rocks,Shaken,Medium,Simple,Bombay Sapphire
+30,BrownDerby,Fruity/Citrus-forward,Bourbon / American Whiskey,Classics,Neat/Up,Shaken,Medium,Medium,George Dickel
+30,BrownDerby,Sour,Bourbon / American Whiskey,Classics,Neat/Up,Shaken,Medium,Medium,George Dickel
+30,BrownDerby,Sweet,Bourbon / American Whiskey,Classics,Neat/Up,Shaken,Medium,Medium,George Dickel
+31,Caesar,Salty/Savory,Vodka,Modern Classics,On the Rocks,Shaken,Medium,Medium,Grey Goose
+32,ChampagneCocktail,Bubbly,None,Classics,Neat/Up,None,Medium,Simple,None
+32,ChampagneCocktail,Sweet,None,Classics,Neat/Up,None,Medium,Simple,None
+33,ChristmasPunch,Sweet,Rum,Modern Classics,On the Rocks,Shaken,Medium,Medium,Bacardi
+34,CloverClub,Fruity/Citrus-forward,Gin,Classics,Neat/Up,Shaken,Medium,Medium,Oxley Gin
+34,CloverClub,Sour,Gin,Classics,Neat/Up,Shaken,Medium,Medium,Oxley Gin
+34,CloverClub,Sweet,Gin,Classics,Neat/Up,Shaken,Medium,Medium,Oxley Gin
+35,CobrasFang,Fruity/Citrus-forward,Rum,Classics,Frozen,Blended,Medium,Medium,Angostura
+36,Cosmopolitan,Fruity/Citrus-forward,Vodka,Classics,Neat/Up,Shaken,Medium,Medium,Absolut
+36,Cosmopolitan,Sour,Vodka,Classics,Neat/Up,Shaken,Medium,Medium,Absolut
+36,Cosmopolitan,Spirit-forward,Vodka,Classics,Neat/Up,Shaken,Medium,Medium,Absolut
+36,Cosmopolitan,Fruity/Citrus-forward,Vodka,Classics,Neat/Up,Shaken,Medium,Medium,Cointreau
+36,Cosmopolitan,Sour,Vodka,Classics,Neat/Up,Shaken,Medium,Medium,Cointreau
+36,Cosmopolitan,Spirit-forward,Vodka,Classics,Neat/Up,Shaken,Medium,Medium,Cointreau
+37,Cranberry-GingerMimosa,Bubbly,Champagne & Sparkling Wine,Modern Classics,Neat/Up,Stirred,Light,Simple,None
+37,Cranberry-GingerMimosa,Sweet,Champagne & Sparkling Wine,Modern Classics,Neat/Up,Stirred,Light,Simple,None
+38,Daiquiri,Fruity/Citrus-forward,Rum,Classics,Neat/Up,Shaken,Medium,Medium,Bacardi
+38,Daiquiri,Sour,Rum,Classics,Neat/Up,Shaken,Medium,Medium,Bacardi
+38,Daiquiri,Sweet,Rum,Classics,Neat/Up,Shaken,Medium,Medium,Bacardi
+38,Daiquiri,Fruity/Citrus-forward,Rum,Tiki / Tropical,Neat/Up,Shaken,Medium,Medium,Bacardi
+38,Daiquiri,Sour,Rum,Tiki / Tropical,Neat/Up,Shaken,Medium,Medium,Bacardi
+38,Daiquiri,Sweet,Rum,Tiki / Tropical,Neat/Up,Shaken,Medium,Medium,Bacardi
+39,DalesRainbowPlantersPunch,Fruity/Citrus-forward,Rum,Punches,On the Rocks,Shaken,Medium,Medium,Appleton Estate
+39,DalesRainbowPlantersPunch,Fruity/Citrus-forward,Rum,Punches,On the Rocks,Shaken,Medium,Medium,Myers's
+39,DalesRainbowPlantersPunch,Fruity/Citrus-forward,Rum,Punches,On the Rocks,Shaken,Medium,Medium,St. Elizabeth
+39,DalesRainbowPlantersPunch,Sweet,Rum,Punches,On the Rocks,Shaken,Medium,Medium,Appleton Estate
+39,DalesRainbowPlantersPunch,Sweet,Rum,Punches,On the Rocks,Shaken,Medium,Medium,Myers's
+39,DalesRainbowPlantersPunch,Sweet,Rum,Punches,On the Rocks,Shaken,Medium,Medium,St. Elizabeth
+39,DalesRainbowPlantersPunch,Fruity/Citrus-forward,Rum,Tiki / Tropical,On the Rocks,Shaken,Medium,Medium,Appleton Estate
+39,DalesRainbowPlantersPunch,Fruity/Citrus-forward,Rum,Tiki / Tropical,On the Rocks,Shaken,Medium,Medium,Myers's
+39,DalesRainbowPlantersPunch,Fruity/Citrus-forward,Rum,Tiki / Tropical,On the Rocks,Shaken,Medium,Medium,St. Elizabeth
+39,DalesRainbowPlantersPunch,Sweet,Rum,Tiki / Tropical,On the Rocks,Shaken,Medium,Medium,Appleton Estate
+39,DalesRainbowPlantersPunch,Sweet,Rum,Tiki / Tropical,On the Rocks,Shaken,Medium,Medium,Myers's
+39,DalesRainbowPlantersPunch,Sweet,Rum,Tiki / Tropical,On the Rocks,Shaken,Medium,Medium,St. Elizabeth
+40,DarknStormy,Bubbly,Rum,Classics,On the Rocks	,None,Medium,Simple,Gosling's
+40,DarknStormy,Sweet,Rum,Classics,On the Rocks	,None,Medium,Simple,Gosling's
+41,DeadbeatDaiquiri,Fruity/Citrus-forward,Rum,Frozen / Blended,Frozen,Blended,Medium,Medium,Caña Brava
+41,DeadbeatDaiquiri,Fruity/Citrus-forward,Rum,Frozen / Blended,Frozen,Blended,Medium,Medium,Fee Brothers
+41,DeadbeatDaiquiri,Fruity/Citrus-forward,Rum,Frozen / Blended,Frozen,Blended,Medium,Medium,Rhum Clément
+42,DevilsMargarita,Sweet,Tequila,Modern Classics,Neat/Up,Shaken,Medium,Medium,None
+43,DiamondDistrict,Spirit-forward,Vermouth / Aperitif Wine,Modern Classics,Neat/Up,Stirred,Strong,Medium,carpano
+43,DiamondDistrict,Spirit-forward,Vermouth / Aperitif Wine,Modern Classics,Neat/Up,Stirred,Strong,Medium,Scrappy's
+43,DiamondDistrict,Spirit-forward,Vermouth / Aperitif Wine,Modern Classics,Neat/Up,Stirred,Strong,Medium,Wild Turkey
+44,DirtyMartini,Salty/Savory,Gin,Classics,Neat/Up,Stirred,Strong,Medium,Absolut
+44,DirtyMartini,Spirit-forward,Gin,Classics,Neat/Up,Stirred,Strong,Medium,Absolut
+44,DirtyMartini,Salty/Savory,Vodka,Classics,Neat/Up,Stirred,Strong,Medium,Absolut
+44,DirtyMartini,Spirit-forward,Vodka,Classics,Neat/Up,Stirred,Strong,Medium,Absolut
+44,DirtyMartini,Salty/Savory,Gin,Martinis,Neat/Up,Stirred,Strong,Medium,Absolut
+44,DirtyMartini,Spirit-forward,Gin,Martinis,Neat/Up,Stirred,Strong,Medium,Absolut
+44,DirtyMartini,Salty/Savory,Vodka,Martinis,Neat/Up,Stirred,Strong,Medium,Absolut
+44,DirtyMartini,Spirit-forward,Vodka,Martinis,Neat/Up,Stirred,Strong,Medium,Absolut
+45,DistritoFederal(AKATequilaManhattan),Spirit-forward,Tequila,None,Neat/Up,Stirred,Medium,Medium,Cazadores
+46,DIYPinkGinCocktail,Spirit-forward,Gin,Classics,Neat/Up,Stirred,Strong,Simple,Angostura Bitters
+47,DryMartini,Spirit-forward,Gin,Classics,Neat/Up,Stirred,Strong,Medium,Bombay Sapphire
+47,DryMartini,Spirit-forward,Vermouth / Aperitif Wine,Classics,Neat/Up,Stirred,Strong,Medium,Bombay Sapphire
+47,DryMartini,Spirit-forward,Gin,Martinis,Neat/Up,Stirred,Strong,Medium,Bombay Sapphire
+47,DryMartini,Spirit-forward,Vermouth / Aperitif Wine,Martinis,Neat/Up,Stirred,Strong,Medium,Bombay Sapphire
+48,DubiousManhattan,Spirit-forward,Bourbon / American Whiskey,Modern Classics,Neat/Up,Shaken,Strong,Medium,None
+48,DubiousManhattan,Spirit-forward,Vermouth / Aperitif Wine,Modern Classics,Neat/Up,Shaken,Strong,Medium,None
+49,DutchmansDaiquiri,Sour,Gin,Modern Classics,Neat/Up,Shaken,Medium,Complicated	,Bols
+50,EasterBunnyShot,Sweet,Vodka,Modern Classics,Neat/Up,Shaken,Medium,Medium,Baileys
+51,Eggnog,Creamy,Bourbon / American Whiskey,Classics,Neat/Up,Stirred,Medium,Medium,Bacardi Oakheart
+51,Eggnog,Sweet,Bourbon / American Whiskey,Classics,Neat/Up,Stirred,Medium,Medium,Bacardi Oakheart
+51,Eggnog,Creamy,Rum,Classics,Neat/Up,Stirred,Medium,Medium,Bacardi Oakheart
+51,Eggnog,Sweet,Rum,Classics,Neat/Up,Stirred,Medium,Medium,Bacardi Oakheart
+52,ElixirBloodyMary,Salty/Savory,Vodka,Classics,On the Rocks,Shaken,Medium,Complicated,Square One
+52,ElixirBloodyMary,Spicy,Vodka,Classics,On the Rocks,Shaken,Medium,Complicated,Square One
+53,Emerald,Bitter,Irish Whiskey,Modern Classics,Neat/Up,Stirred,Strong,Simple,None
+53,Emerald,Spirit-forward,Irish Whiskey,Modern Classics,Neat/Up,Stirred,Strong,Simple,None
+54,EmployeesOnlyManhattan,Spirit-forward,Rye Whiskey,Classics,Neat/Up,Stirred,Strong,Medium,Grand Marnier	
+54,EmployeesOnlyManhattan,Spirit-forward,Rye Whiskey,Modern Classics,Neat/Up,Stirred,Strong,Medium,Grand Marnier	
+55,Fennel75,Bitter,Tequila,Modern Classics,Neat/Up,Shaken,Light,Medium,Ciccio E Figli
+55,Fennel75,Bubbly,Tequila,Modern Classics,Neat/Up,Shaken,Light,Medium,Ciccio E Figli
+55,Fennel75,Bitter,Tequila,Modern Classics,Neat/Up,Shaken,Light,Medium,don julio
+55,Fennel75,Bubbly,Tequila,Modern Classics,Neat/Up,Shaken,Light,Medium,don julio
+56,FlamingDr_PepperShot,Bubbly,Beer,Shots,Neat/Up,None,Medium,Complicated,None
+56,FlamingDr_PepperShot,Bubbly,Liqueurs,Shots,Neat/Up,None,Medium,Complicated,None
+56,FlamingDr_PepperShot,Bubbly,Rum,Shots,Neat/Up,None,Medium,Complicated,None
+56,FlamingDr_PepperShot,Spirit-forward,Beer,Shots,Neat/Up,None,Medium,Complicated,None
+56,FlamingDr_PepperShot,Spirit-forward,Liqueurs,Shots,Neat/Up,None,Medium,Complicated,None
+56,FlamingDr_PepperShot,Spirit-forward,Rum,Shots,Neat/Up,None,Medium,Complicated,None
+57,FortDefianceIrishCoffee,Bitter,Irish Whiskey,Hot,Hot/Warm,Cooked/Heated,Medium,Medium,Counter Culture
+57,FortDefianceIrishCoffee,Creamy,Irish Whiskey,Hot,Hot/Warm,Cooked/Heated,Medium,Medium,Counter Culture
+57,FortDefianceIrishCoffee,Bitter,Whiskey,Hot,Hot/Warm,Cooked/Heated,Medium,Medium,Counter Culture
+57,FortDefianceIrishCoffee,Creamy,Whiskey,Hot,Hot/Warm,Cooked/Heated,Medium,Medium,Counter Culture
+57,FortDefianceIrishCoffee,Bitter,Irish Whiskey,Hot,Hot/Warm,Cooked/Heated,Medium,Medium,Powers
+57,FortDefianceIrishCoffee,Creamy,Irish Whiskey,Hot,Hot/Warm,Cooked/Heated,Medium,Medium,Powers
+57,FortDefianceIrishCoffee,Bitter,Whiskey,Hot,Hot/Warm,Cooked/Heated,Medium,Medium,Powers
+57,FortDefianceIrishCoffee,Creamy,Whiskey,Hot,Hot/Warm,Cooked/Heated,Medium,Medium,Powers
+58,French75,Bubbly,Gin,Classics,Neat/Up,Shaken,Medium,Medium,Bluecoat
+58,French75,Fruity/Citrus-forward,Gin,Classics,Neat/Up,Shaken,Medium,Medium,Bluecoat
+58,French75,Spirit-forward,Gin,Classics,Neat/Up,Shaken,Medium,Medium,Bluecoat
+59,FrenchMartini,Fruity/Citrus-forward,Vodka,Martinis,Neat/Up,Shaken,Strong,Medium,Absolut
+59,FrenchMartini,Sour,Vodka,Martinis,Neat/Up,Shaken,Strong,Medium,Absolut
+59,FrenchMartini,Sweet,Vodka,Martinis,Neat/Up,Shaken,Strong,Medium,Absolut
+60,Frohito,Fruity/Citrus-forward,Rum,Frozen / Blended,Frozen,Blended,Medium,Complicated,None
+60,Frohito,Sweet,Rum,Frozen / Blended,Frozen,Blended,Medium,Complicated,None
+61,Frose,Fruity/Citrus-forward,Wine,Frozen / Blended,Frozen,Blended,Light,Medium,Aperol
+62,FrozenMargarita,Fruity/Citrus-forward,Tequila,Frozen / Blended,Frozen,Blended,Medium,Medium,Patrón
+63,FrozenSangria,Fruity/Citrus-forward,None,Frozen / Blended,Frozen,Blended,Light,Medium,Drambuie
+64,Gibson,Salty/Savory,Gin,Classics,Neat/Up,Stirred,Strong,Medium,Grey Goose
+64,Gibson,Salty/Savory,Vermouth / Aperitif Wine,Classics,Neat/Up,Stirred,Strong,Medium,Grey Goose
+64,Gibson,Salty/Savory,Vodka,Classics,Neat/Up,Stirred,Strong,Medium,Grey Goose
+64,Gibson,Spirit-forward,Gin,Classics,Neat/Up,Stirred,Strong,Medium,Grey Goose
+64,Gibson,Spirit-forward,Vermouth / Aperitif Wine,Classics,Neat/Up,Stirred,Strong,Medium,Grey Goose
+64,Gibson,Spirit-forward,Vodka,Classics,Neat/Up,Stirred,Strong,Medium,Grey Goose
+64,Gibson,Salty/Savory,Gin,Martinis,Neat/Up,Stirred,Strong,Medium,Grey Goose
+64,Gibson,Salty/Savory,Vermouth / Aperitif Wine,Martinis,Neat/Up,Stirred,Strong,Medium,Grey Goose
+64,Gibson,Salty/Savory,Vodka,Martinis,Neat/Up,Stirred,Strong,Medium,Grey Goose
+64,Gibson,Spirit-forward,Gin,Martinis,Neat/Up,Stirred,Strong,Medium,Grey Goose
+64,Gibson,Spirit-forward,Vermouth / Aperitif Wine,Martinis,Neat/Up,Stirred,Strong,Medium,Grey Goose
+64,Gibson,Spirit-forward,Vodka,Martinis,Neat/Up,Stirred,Strong,Medium,Grey Goose
+65,Gimlet,Sour,Gin,Classics,Neat/Up,Shaken,Strong,Medium,Bombay Sapphire
+65,Gimlet,Spirit-forward,Gin,Classics,Neat/Up,Shaken,Strong,Medium,Bombay Sapphire
+66,GinFizz,Bubbly,Gin,Classics,Neat/Up,Shaken,Medium,Medium,Bombay Sapphire
+66,GinFizz,Sour,Gin,Classics,Neat/Up,Shaken,Medium,Medium,Bombay Sapphire
+67,GoldRush,Sour,Bourbon / American Whiskey,Modern Classics,Large Ice Cube,Shaken,Medium,Medium,Booker's
+67,GoldRush,Sweet,Bourbon / American Whiskey,Modern Classics,Large Ice Cube,Shaken,Medium,Medium,Booker's
+67,GoldRush,Sour,Whiskey,Modern Classics,Large Ice Cube,Shaken,Medium,Medium,Booker's
+67,GoldRush,Sweet,Whiskey,Modern Classics,Large Ice Cube,Shaken,Medium,Medium,Booker's
+67,GoldRush,Sour,Bourbon / American Whiskey,Modern Classics,Large Ice Cube,Shaken,Medium,Medium,Wild Turkey
+67,GoldRush,Sweet,Bourbon / American Whiskey,Modern Classics,Large Ice Cube,Shaken,Medium,Medium,Wild Turkey
+67,GoldRush,Sour,Whiskey,Modern Classics,Large Ice Cube,Shaken,Medium,Medium,Wild Turkey
+67,GoldRush,Sweet,Whiskey,Modern Classics,Large Ice Cube,Shaken,Medium,Medium,Wild Turkey
+68,GreenBeast,Sour,Absinthe,Punches,On the Rocks,Stirred,Medium,Simple,Pernod
+68,GreenBeast,Sweet,Absinthe,Punches,On the Rocks,Stirred,Medium,Simple,Pernod
+69,GreenHoliday,Sweet,Vodka,Modern Classics,Neat/Up,Shaken,Medium,Medium,Absolut
+69,GreenHoliday,Sweet,Vodka,Modern Classics,Neat/Up,Shaken,Medium,Medium,Monin
+70,GreenMargarita,Salty/Savory,Tequila,Modern Classics,On the Rocks,Shaken,Medium,Medium,Combier
+70,GreenMargarita,Salty/Savory,Tequila,Modern Classics,On the Rocks,Shaken,Medium,Medium,st. germain
+71,Greyhound,Fruity/Citrus-forward,Vodka,Classics,On the Rocks,Stirred,Medium,Simple,Absolut
+71,Greyhound,Sour,Vodka,Classics,On the Rocks,Stirred,Medium,Simple,Absolut
+71,Greyhound,Fruity/Citrus-forward,Vodka,Classics,On the Rocks,Stirred,Medium,Simple,Absolut Grapefruit
+71,Greyhound,Sour,Vodka,Classics,On the Rocks,Stirred,Medium,Simple,Absolut Grapefruit
+72,HemingwayDaiquiri,Fruity/Citrus-forward,Rum,Classics,Frozen,Blended,Medium,Medium,Bacardi
+72,HemingwayDaiquiri,Spirit-forward,Rum,Frozen / Blended,Frozen,Blended,Medium,Medium,Bacardi
+73,HibiscusSummerGardenPunch,Fruity/Citrus-forward,Gin,Punches,On the Rocks,Stirred,Medium,Medium,Bombay Sapphire
+74,HolidayHooch,Bitter,Liqueurs,Hot,Hot/Warm,Cooked/Heated	,Medium,Simple,Illy
+74,HolidayHooch,Bitter,Liqueurs,Hot,Hot/Warm,Cooked/Heated	,Medium,Simple,Mr. Stacks
+74,HolidayHooch,Bitter,Liqueurs,Hot,Hot/Warm,Cooked/Heated	,Medium,Simple,Underground
+74,HolidayHooch,Spirit-forward,Liqueurs,Hot,Hot/Warm,Cooked/Heated	,Medium,Simple,Illy
+74,HolidayHooch,Spirit-forward,Liqueurs,Hot,Hot/Warm,Cooked/Heated	,Medium,Simple,Mr. Stacks
+74,HolidayHooch,Spirit-forward,Liqueurs,Hot,Hot/Warm,Cooked/Heated	,Medium,Simple,Underground
+75,HotButteredRum,Creamy,Rum,Classics,Hot/Warm,Stirred,Medium,Complicated,Bacardi
+75,HotButteredRum,Sweet,Rum,Classics,Hot/Warm,Stirred,Medium,Complicated,Bacardi
+75,HotButteredRum,Creamy,Rum,Hot,Hot/Warm,Stirred,Medium,Complicated,Bacardi
+75,HotButteredRum,Sweet,Rum,Hot,Hot/Warm,Stirred,Medium,Complicated,Bacardi
+76,HotToddy,Sour,Bourbon / American Whiskey,Classics,Hot/Warm,Cooked/Heated,Medium,Medium,Bulleit
+76,HotToddy,Sour,Irish Whiskey,Classics,Hot/Warm,Cooked/Heated,Medium,Medium,Bulleit
+76,HotToddy,Sour,Rye Whiskey,Classics,Hot/Warm,Cooked/Heated,Medium,Medium,Bulleit
+76,HotToddy,Sour,Scotch,Classics,Hot/Warm,Cooked/Heated,Medium,Medium,Bulleit
+76,HotToddy,Sour,Whiskey,Classics,Hot/Warm,Cooked/Heated,Medium,Medium,Bulleit
+76,HotToddy,Spirit-forward,Bourbon / American Whiskey,Classics,Hot/Warm,Cooked/Heated,Medium,Medium,Bulleit
+76,HotToddy,Spirit-forward,Irish Whiskey,Classics,Hot/Warm,Cooked/Heated,Medium,Medium,Bulleit
+76,HotToddy,Spirit-forward,Rye Whiskey,Classics,Hot/Warm,Cooked/Heated,Medium,Medium,Bulleit
+76,HotToddy,Spirit-forward,Scotch,Classics,Hot/Warm,Cooked/Heated,Medium,Medium,Bulleit
+76,HotToddy,Spirit-forward,Whiskey,Classics,Hot/Warm,Cooked/Heated,Medium,Medium,Bulleit
+76,HotToddy,Sweet,Bourbon / American Whiskey,Classics,Hot/Warm,Cooked/Heated,Medium,Medium,Bulleit
+76,HotToddy,Sweet,Irish Whiskey,Classics,Hot/Warm,Cooked/Heated,Medium,Medium,Bulleit
+76,HotToddy,Sweet,Rye Whiskey,Classics,Hot/Warm,Cooked/Heated,Medium,Medium,Bulleit
+76,HotToddy,Sweet,Scotch,Classics,Hot/Warm,Cooked/Heated,Medium,Medium,Bulleit
+76,HotToddy,Sweet,Whiskey,Classics,Hot/Warm,Cooked/Heated,Medium,Medium,Bulleit
+76,HotToddy,Sour,Bourbon / American Whiskey,Hot,Hot/Warm,Cooked/Heated,Medium,Medium,Bulleit
+76,HotToddy,Sour,Irish Whiskey,Hot,Hot/Warm,Cooked/Heated,Medium,Medium,Bulleit
+76,HotToddy,Sour,Rye Whiskey,Hot,Hot/Warm,Cooked/Heated,Medium,Medium,Bulleit
+76,HotToddy,Sour,Scotch,Hot,Hot/Warm,Cooked/Heated,Medium,Medium,Bulleit
+76,HotToddy,Sour,Whiskey,Hot,Hot/Warm,Cooked/Heated,Medium,Medium,Bulleit
+76,HotToddy,Spirit-forward,Bourbon / American Whiskey,Hot,Hot/Warm,Cooked/Heated,Medium,Medium,Bulleit
+76,HotToddy,Spirit-forward,Irish Whiskey,Hot,Hot/Warm,Cooked/Heated,Medium,Medium,Bulleit
+76,HotToddy,Spirit-forward,Rye Whiskey,Hot,Hot/Warm,Cooked/Heated,Medium,Medium,Bulleit
+76,HotToddy,Spirit-forward,Scotch,Hot,Hot/Warm,Cooked/Heated,Medium,Medium,Bulleit
+76,HotToddy,Spirit-forward,Whiskey,Hot,Hot/Warm,Cooked/Heated,Medium,Medium,Bulleit
+76,HotToddy,Sweet,Bourbon / American Whiskey,Hot,Hot/Warm,Cooked/Heated,Medium,Medium,Bulleit
+76,HotToddy,Sweet,Irish Whiskey,Hot,Hot/Warm,Cooked/Heated,Medium,Medium,Bulleit
+76,HotToddy,Sweet,Rye Whiskey,Hot,Hot/Warm,Cooked/Heated,Medium,Medium,Bulleit
+76,HotToddy,Sweet,Scotch,Hot,Hot/Warm,Cooked/Heated,Medium,Medium,Bulleit
+76,HotToddy,Sweet,Whiskey,Hot,Hot/Warm,Cooked/Heated,Medium,Medium,Bulleit
+77,Hurricane,Spirit-forward,Rum,Tiki / Tropical,On the Rocks,Shaken,Strong,Medium,Bacardi
+77,Hurricane,Sweet,Rum,Tiki / Tropical,On the Rocks,Shaken,Strong,Medium,Bacardi
+78,IrishCoffee,Bitter,Irish Whiskey,Hot,Hot/Warm,Cooked/Heated,Medium,Simple,Jameson
+78,IrishCoffee,Creamy,Irish Whiskey,Hot,Hot/Warm,Cooked/Heated,Medium,Simple,Jameson
+78,IrishCoffee,Sweet,Irish Whiskey,Hot,Hot/Warm,Cooked/Heated,Medium,Simple,Jameson
+79,JeffreyMorgenthalersHotToddy,Sweet,Bourbon / American Whiskey,None,Hot/Warm,Cooked/Heated,Medium,Medium,None
+79,JeffreyMorgenthalersHotToddy,Sweet,Whiskey,None,Hot/Warm,Cooked/Heated,Medium,Medium,None
+80,Jell-OShots,Sweet,Rum,Classics,None,None,Medium,Medium,Sobieski
+80,Jell-OShots,Sweet,Vodka,Classics,None,None,Medium,Medium,Sobieski
+81,JingleBall,Herbaceous,Vodka,Modern Classics,Neat/Up,Poured,Medium,Medium,Grey Goose
+81,JingleBall,Sweet,Vodka,Modern Classics,Neat/Up,Poured,Medium,Medium,Grey Goose
+82,Kamikaze,Fruity/Citrus-forward,Vodka,Shots,Neat/Up,Shaken,Medium,Medium,Grey Goose
+82,Kamikaze,Sour,Vodka,Shots,Neat/Up,Shaken,Medium,Medium,Grey Goose
+82,Kamikaze,Sweet,Vodka,Shots,Neat/Up,Shaken,Medium,Medium,Grey Goose
+83,KirRoyale,Bubbly,Champagne & Sparkling Wine,Classics,Neat/Up,Poured,Light,Simple,None
+83,KirRoyale,Bubbly,Liqueurs,Classics,Neat/Up,Poured,Light,Simple,None
+84,KombuchaMimosa,Bubbly,Champagne & Sparkling Wine,Modern Classics,Neat/Up,Stirred,Light,Simple,None
+85,Last-MinuteMulledWine,Spicy,Bourbon / American Whiskey,Classics,Hot/Warm,Cooked/Heated,Medium,Medium,Hennessy
+85,Last-MinuteMulledWine,Spicy,Brandy,Classics,Hot/Warm,Cooked/Heated,Medium,Medium,Hennessy
+85,Last-MinuteMulledWine,Spicy,Cognac,Classics,Hot/Warm,Cooked/Heated,Medium,Medium,Hennessy
+85,Last-MinuteMulledWine,Spicy,Bourbon / American Whiskey,Hot,Hot/Warm,Cooked/Heated,Medium,Medium,Hennessy
+85,Last-MinuteMulledWine,Spicy,Brandy,Hot,Hot/Warm,Cooked/Heated,Medium,Medium,Hennessy
+85,Last-MinuteMulledWine,Spicy,Cognac,Hot,Hot/Warm,Cooked/Heated,Medium,Medium,Hennessy
+85,Last-MinuteMulledWine,Spicy,Bourbon / American Whiskey,Punches,Hot/Warm,Cooked/Heated,Medium,Medium,Hennessy
+85,Last-MinuteMulledWine,Spicy,Brandy,Punches,Hot/Warm,Cooked/Heated,Medium,Medium,Hennessy
+85,Last-MinuteMulledWine,Spicy,Cognac,Punches,Hot/Warm,Cooked/Heated,Medium,Medium,Hennessy
+85,Last-MinuteMulledWine,Sweet,Bourbon / American Whiskey,Classics,Hot/Warm,Cooked/Heated,Medium,Medium,Hennessy
+85,Last-MinuteMulledWine,Sweet,Brandy,Classics,Hot/Warm,Cooked/Heated,Medium,Medium,Hennessy
+85,Last-MinuteMulledWine,Sweet,Cognac,Classics,Hot/Warm,Cooked/Heated,Medium,Medium,Hennessy
+85,Last-MinuteMulledWine,Sweet,Bourbon / American Whiskey,Hot,Hot/Warm,Cooked/Heated,Medium,Medium,Hennessy
+85,Last-MinuteMulledWine,Sweet,Brandy,Hot,Hot/Warm,Cooked/Heated,Medium,Medium,Hennessy
+85,Last-MinuteMulledWine,Sweet,Cognac,Hot,Hot/Warm,Cooked/Heated,Medium,Medium,Hennessy
+85,Last-MinuteMulledWine,Sweet,Bourbon / American Whiskey,Punches,Hot/Warm,Cooked/Heated,Medium,Medium,Hennessy
+85,Last-MinuteMulledWine,Sweet,Brandy,Punches,Hot/Warm,Cooked/Heated,Medium,Medium,Hennessy
+85,Last-MinuteMulledWine,Sweet,Cognac,Punches,Hot/Warm,Cooked/Heated,Medium,Medium,Hennessy
+86,LemonDrop,Fruity/Citrus-forward,Vodka,Modern Classics,Neat/Up,Shaken,Medium,Medium,Absolut
+87,LetsPumpkin,Spicy,Bourbon / American Whiskey,Punches,Neat/Up,Stirred,Medium,Complicated,elijah craig
+87,LetsPumpkin,Sweet,Bourbon / American Whiskey,Punches,Neat/Up,Stirred,Medium,Complicated,elijah craig
+87,LetsPumpkin,Spicy,Bourbon / American Whiskey,Punches,Neat/Up,Stirred,Medium,Complicated,Farmer’s Market
+87,LetsPumpkin,Sweet,Bourbon / American Whiskey,Punches,Neat/Up,Stirred,Medium,Complicated,Farmer’s Market
+88,MaiTai,Fruity/Citrus-forward	,Rhum Agricole,Tiki / Tropical,On the Rocks,Shaken,Strong,Medium,Clément
+88,MaiTai,Fruity/Citrus-forward	,Rhum Agricole,Tiki / Tropical,On the Rocks,Shaken,Strong,Medium,Coruba
+88,MaiTai,Fruity/Citrus-forward	,Rhum Agricole,Tiki / Tropical,On the Rocks,Shaken,Strong,Medium,Latitude 29
+88,MaiTai,Sweet,Rhum Agricole,Tiki / Tropical,On the Rocks,Shaken,Strong,Medium,Clément
+88,MaiTai,Sweet,Rhum Agricole,Tiki / Tropical,On the Rocks,Shaken,Strong,Medium,Coruba
+88,MaiTai,Sweet,Rhum Agricole,Tiki / Tropical,On the Rocks,Shaken,Strong,Medium,Latitude 29
+88,MaiTai,Fruity/Citrus-forward	,Rum,Tiki / Tropical,On the Rocks,Shaken,Strong,Medium,Clément
+88,MaiTai,Fruity/Citrus-forward	,Rum,Tiki / Tropical,On the Rocks,Shaken,Strong,Medium,Coruba
+88,MaiTai,Fruity/Citrus-forward	,Rum,Tiki / Tropical,On the Rocks,Shaken,Strong,Medium,Latitude 29
+88,MaiTai,Sweet,Rum,Tiki / Tropical,On the Rocks,Shaken,Strong,Medium,Clément
+88,MaiTai,Sweet,Rum,Tiki / Tropical,On the Rocks,Shaken,Strong,Medium,Coruba
+88,MaiTai,Sweet,Rum,Tiki / Tropical,On the Rocks,Shaken,Strong,Medium,Latitude 29
+89,MangoBravaDaiquiri,Fruity/Citrus-forward,Rum,Tiki / Tropical,Neat/Up,Shaken,Medium,Complicated,Caña Brava
+89,MangoBravaDaiquiri,Sour,Rum,Tiki / Tropical,Neat/Up,Shaken,Medium,Complicated,Caña Brava
+89,MangoBravaDaiquiri,Sweet,Rum,Tiki / Tropical,Neat/Up,Shaken,Medium,Complicated,Caña Brava
+90,Manhattan,Spirit-forward,Bourbon / American Whiskey,Classics,Neat/Up,Stirred,Medium,Simple,Angostura
+90,Manhattan,Spirit-forward,Rye Whiskey,Classics,Neat/Up,Stirred,Medium,Simple,Angostura
+90,Manhattan,Spirit-forward,Whiskey,Classics,Neat/Up,Stirred,Medium,Simple,Angostura
+90,Manhattan,Spirit-forward,Bourbon / American Whiskey,Classics,Neat/Up,Stirred,Medium,Simple,Bulleit
+90,Manhattan,Spirit-forward,Rye Whiskey,Classics,Neat/Up,Stirred,Medium,Simple,Bulleit
+90,Manhattan,Spirit-forward,Whiskey,Classics,Neat/Up,Stirred,Medium,Simple,Bulleit
+91,Margarita,Fruity/Citrus-forward,Tequila,Classics,Neat/Up,Shaken,Medium,Medium,Patrón
+91,Margarita,Sour,Tequila,Classics,Neat/Up,Shaken,Medium,Medium,Patrón
+91,Margarita,Fruity/Citrus-forward,Tequila,Margaritas,Neat/Up,Shaken,Medium,Medium,Patrón
+91,Margarita,Sour,Tequila,Margaritas,Neat/Up,Shaken,Medium,Medium,Patrón
+91,Margarita,Fruity/Citrus-forward,Tequila,Classics,On the Rocks,Shaken,Medium,Medium,Patrón
+91,Margarita,Sour,Tequila,Classics,On the Rocks,Shaken,Medium,Medium,Patrón
+91,Margarita,Fruity/Citrus-forward,Tequila,Margaritas,On the Rocks,Shaken,Medium,Medium,Patrón
+91,Margarita,Sour,Tequila,Margaritas,On the Rocks,Shaken,Medium,Medium,Patrón
+92,MargaritasbythePitcher,Fruity/Citrus-forward,Tequila,Classics,Neat/Up,Shaken,Medium,Medium,Cointreau
+92,MargaritasbythePitcher,Fruity/Citrus-forward,Tequila,Margaritas,Neat/Up,Shaken,Medium,Medium,Cointreau
+92,MargaritasbythePitcher,Fruity/Citrus-forward,Tequila,Punches,Neat/Up,Shaken,Medium,Medium,Cointreau
+92,MargaritasbythePitcher,Sour,Tequila,Classics,Neat/Up,Shaken,Medium,Medium,Cointreau
+92,MargaritasbythePitcher,Sour,Tequila,Margaritas,Neat/Up,Shaken,Medium,Medium,Cointreau
+92,MargaritasbythePitcher,Sour,Tequila,Punches,Neat/Up,Shaken,Medium,Medium,Cointreau
+92,MargaritasbythePitcher,Fruity/Citrus-forward,Tequila,Classics,On the Rocks,Shaken,Medium,Medium,Cointreau
+92,MargaritasbythePitcher,Fruity/Citrus-forward,Tequila,Margaritas,On the Rocks,Shaken,Medium,Medium,Cointreau
+92,MargaritasbythePitcher,Fruity/Citrus-forward,Tequila,Punches,On the Rocks,Shaken,Medium,Medium,Cointreau
+92,MargaritasbythePitcher,Sour,Tequila,Classics,On the Rocks,Shaken,Medium,Medium,Cointreau
+92,MargaritasbythePitcher,Sour,Tequila,Margaritas,On the Rocks,Shaken,Medium,Medium,Cointreau
+92,MargaritasbythePitcher,Sour,Tequila,Punches,On the Rocks,Shaken,Medium,Medium,Cointreau
+92,MargaritasbythePitcher,Fruity/Citrus-forward,Tequila,Classics,Neat/Up,Shaken,Medium,Medium,Patrón
+92,MargaritasbythePitcher,Fruity/Citrus-forward,Tequila,Margaritas,Neat/Up,Shaken,Medium,Medium,Patrón
+92,MargaritasbythePitcher,Fruity/Citrus-forward,Tequila,Punches,Neat/Up,Shaken,Medium,Medium,Patrón
+92,MargaritasbythePitcher,Sour,Tequila,Classics,Neat/Up,Shaken,Medium,Medium,Patrón
+92,MargaritasbythePitcher,Sour,Tequila,Margaritas,Neat/Up,Shaken,Medium,Medium,Patrón
+92,MargaritasbythePitcher,Sour,Tequila,Punches,Neat/Up,Shaken,Medium,Medium,Patrón
+92,MargaritasbythePitcher,Fruity/Citrus-forward,Tequila,Classics,On the Rocks,Shaken,Medium,Medium,Patrón
+92,MargaritasbythePitcher,Fruity/Citrus-forward,Tequila,Margaritas,On the Rocks,Shaken,Medium,Medium,Patrón
+92,MargaritasbythePitcher,Fruity/Citrus-forward,Tequila,Punches,On the Rocks,Shaken,Medium,Medium,Patrón
+92,MargaritasbythePitcher,Sour,Tequila,Classics,On the Rocks,Shaken,Medium,Medium,Patrón
+92,MargaritasbythePitcher,Sour,Tequila,Margaritas,On the Rocks,Shaken,Medium,Medium,Patrón
+92,MargaritasbythePitcher,Sour,Tequila,Punches,On the Rocks,Shaken,Medium,Medium,Patrón
+93,MasterCleanseShot,Fruity/Citrus-forward,Pisco,Shots,Neat/Up,Shaken,Medium,Medium,None
+93,MasterCleanseShot,Spicy,Pisco,Shots,Neat/Up,Shaken,Medium,Medium,None
+93,MasterCleanseShot,Sweet,Pisco,Shots,Neat/Up,Shaken,Medium,Medium,None
+94,Mimosa,Fruity/Citrus-forward,Champagne & Sparkling Wine,Classics,Neat/Up,None,Light,Simple,None
+94,Mimosa,Sweet,Champagne & Sparkling Wine,Classics,Neat/Up,None,Light,Simple,None
+95,MintJulep,Spirit-forward,Bourbon / American Whiskey,Classics,On the Rocks,Stirred,Strong,Medium,Bulleit
+95,MintJulep,Sweet,Bourbon / American Whiskey,Classics,On the Rocks,Stirred,Strong,Medium,Bulleit
+95,MintJulep,Spirit-forward,Whiskey,Classics,On the Rocks,Stirred,Strong,Medium,Bulleit
+95,MintJulep,Sweet,Whiskey,Classics,On the Rocks,Stirred,Strong,Medium,Bulleit
+96,Mojito,Bubbly,Rum,Classics,On the Rocks,Shaken,Medium,Complicated,None
+96,Mojito,Bubbly,Rum,Tiki / Tropical,On the Rocks,Shaken,Medium,Complicated,None
+96,Mojito,Fruity/Citrus-forward,Rum,Classics,On the Rocks,Shaken,Medium,Complicated,None
+96,Mojito,Fruity/Citrus-forward,Rum,Tiki / Tropical,On the Rocks,Shaken,Medium,Complicated,None
+96,Mojito,Sour,Rum,Classics,On the Rocks,Shaken,Medium,Complicated,None
+96,Mojito,Sour,Rum,Tiki / Tropical,On the Rocks,Shaken,Medium,Complicated,None
+96,Mojito,Sweet,Rum,Classics,On the Rocks,Shaken,Medium,Complicated,None
+96,Mojito,Sweet,Rum,Tiki / Tropical,On the Rocks,Shaken,Medium,Complicated,None
+97,MoscowMule,Sweet,Vodka,Classics,On the Rocks,Stirred,Medium,Simple,None
+98,MuddledPine,Sweet,Gin,Modern Classics,On the Rocks,Shaken,Medium,Medium,Angostura Bitters
+98,MuddledPine,Sweet,Vodka,Modern Classics,On the Rocks,Shaken,Medium,Medium,Angostura Bitters
+99,Negroni,Bitter,Gin,Classics,On the Rocks,Stirred,Strong,Medium,None
+99,Negroni,Bitter,Liqueurs,Classics,On the Rocks,Stirred,Strong,Medium,None
+99,Negroni,Bitter,Vermouth / Aperitif Wine,Classics,On the Rocks,Stirred,Strong,Medium,None
+99,Negroni,Spirit-forward,Gin,Classics,On the Rocks,Stirred,Strong,Medium,None
+99,Negroni,Spirit-forward,Liqueurs,Classics,On the Rocks,Stirred,Strong,Medium,None
+99,Negroni,Spirit-forward,Vermouth / Aperitif Wine,Classics,On the Rocks,Stirred,Strong,Medium,None
+100,NegroniSbagliato,Bitter,Liqueurs,Classics,On the Rocks,Stirred,Light,Medium,Campari
+100,NegroniSbagliato,Bitter,Liqueurs,Punches,On the Rocks,Stirred,Light,Medium,Campari
+100,NegroniSbagliato,Bitter,Vermouth / Aperitif Wine,Classics,On the Rocks,Stirred,Light,Medium,Campari
+100,NegroniSbagliato,Bitter,Vermouth / Aperitif Wine,Punches,On the Rocks,Stirred,Light,Medium,Campari
+100,NegroniSbagliato,Bubbly,Liqueurs,Classics,On the Rocks,Stirred,Light,Medium,Campari
+100,NegroniSbagliato,Bubbly,Liqueurs,Punches,On the Rocks,Stirred,Light,Medium,Campari
+100,NegroniSbagliato,Bubbly,Vermouth / Aperitif Wine,Classics,On the Rocks,Stirred,Light,Medium,Campari
+100,NegroniSbagliato,Bubbly,Vermouth / Aperitif Wine,Punches,On the Rocks,Stirred,Light,Medium,Campari
+100,NegroniSbagliato,Sweet,Liqueurs,Classics,On the Rocks,Stirred,Light,Medium,Campari
+100,NegroniSbagliato,Sweet,Liqueurs,Punches,On the Rocks,Stirred,Light,Medium,Campari
+100,NegroniSbagliato,Sweet,Vermouth / Aperitif Wine,Classics,On the Rocks,Stirred,Light,Medium,Campari
+100,NegroniSbagliato,Sweet,Vermouth / Aperitif Wine,Punches,On the Rocks,Stirred,Light,Medium,Campari
+101,NewYorkSour,Sour,Bourbon / American Whiskey,Classics,On the Rocks,Shaken,Medium,Medium,George Dickel
+101,NewYorkSour,Sour,Rye Whiskey,Classics,On the Rocks,Shaken,Medium,Medium,George Dickel
+101,NewYorkSour,Sweet,Bourbon / American Whiskey,Classics,On the Rocks,Shaken,Medium,Medium,George Dickel
+101,NewYorkSour,Sweet,Rye Whiskey,Classics,On the Rocks,Shaken,Medium,Medium,George Dickel
+102,OaxacanOldFashioned,Spirit-forward,Tequila,Modern Classics,On the Rocks,Stirred,Strong,Medium,Angostura
+102,OaxacanOldFashioned,Spirit-forward,Tequila,Modern Classics,On the Rocks,Stirred,Strong,Medium,Del Maguey
+103,OldFashioned,Spirit-forward,Bourbon / American Whiskey,Classics,On the Rocks,None,Medium,Medium,Bulleit
+103,OldFashioned,Sweet,Bourbon / American Whiskey,Classics,On the Rocks,None,Medium,Medium,Bulleit
+104,Painkiller,Fruity/Citrus-forward,Rum,Tiki / Tropical,On the Rocks,Shaken,Medium,Medium,None
+104,Painkiller,Sweet,Rum,Tiki / Tropical,On the Rocks,Shaken,Medium,Medium,None
+105,Paloma,Bubbly,Tequila,Classics,On the Rocks,Stirred,Medium,Simple,None
+105,Paloma,Fruity/Citrus-forward,Tequila,Classics,On the Rocks,Stirred,Medium,Simple,None
+105,Paloma,Sour,Tequila,Classics,On the Rocks,Stirred,Medium,Simple,None
+105,Paloma,Sweet,Tequila,Classics,On the Rocks,Stirred,Medium,Simple,None
+106,PinaColada,Creamy,Rum,Tiki / Tropical,Frozen,Shaken,Medium,Medium,None
+106,PinaColada,Creamy,Rum,Tiki / Tropical,On the Rocks,Shaken,Medium,Medium,None
+106,PinaColada,Fruity/Citrus-forward,Rum,Tiki / Tropical,Frozen,Shaken,Medium,Medium,None
+106,PinaColada,Fruity/Citrus-forward,Rum,Tiki / Tropical,On the Rocks,Shaken,Medium,Medium,None
+106,PinaColada,Sweet,Rum,Tiki / Tropical,Frozen,Shaken,Medium,Medium,None
+106,PinaColada,Sweet,Rum,Tiki / Tropical,On the Rocks,Shaken,Medium,Medium,None
+107,PoncheNavideno,Fruity/Citrus-forward,Rum,Modern Classics,Neat/Up,Stirred,Medium,Complicated,None
+107,PoncheNavideno,Fruity/Citrus-forward,Rum,Punches,Neat/Up,Stirred,Medium,Complicated,None
+108,Preakness,Spirit-forward,Bourbon / American Whiskey,Modern Classics,Neat/Up,Stirred,Strong,Medium,Benedictine
+108,Preakness,Spirit-forward,Vermouth / Aperitif Wine,Modern Classics,Neat/Up,Stirred,Strong,Medium,Benedictine
+109,PumpkinToddy,None,Brandy,Hot,Hot/Warm,Cooked/Heated,Medium,Medium,Laird's Applejack
+109,PumpkinToddy,None,Brandy,Hot,Hot/Warm,Cooked/Heated,Medium,Medium,Rittenhouse
+109,PumpkinToddy,None,Brandy,Hot,Hot/Warm,Poured,Medium,Medium,Laird's Applejack
+109,PumpkinToddy,None,Brandy,Hot,Hot/Warm,Poured,Medium,Medium,Rittenhouse
+109,PumpkinToddy,None,Rye Whiskey,Hot,Hot/Warm,Cooked/Heated,Medium,Medium,Laird's Applejack
+109,PumpkinToddy,None,Rye Whiskey,Hot,Hot/Warm,Cooked/Heated,Medium,Medium,Rittenhouse
+109,PumpkinToddy,None,Rye Whiskey,Hot,Hot/Warm,Poured,Medium,Medium,Laird's Applejack
+109,PumpkinToddy,None,Rye Whiskey,Hot,Hot/Warm,Poured,Medium,Medium,Rittenhouse
+110,RamosGinFizz,Bubbly,Gin,Classics,Neat/Up,Shaken,Medium,Medium,None
+110,RamosGinFizz,Creamy,Gin,Classics,Neat/Up,Shaken,Medium,Medium,None
+110,RamosGinFizz,Sour,Gin,Classics,Neat/Up,Shaken,Medium,Medium,None
+111,RedSnapper,Salty/Savory,Gin,Classics,On the Rocks,Shaken,Medium,Simple,Tabasco
+111,RedSnapper,Sour,Gin,Classics,On the Rocks,Shaken,Medium,Simple,Tabasco
+111,RedSnapper,Spicy,Gin,Classics,On the Rocks,Shaken,Medium,Simple,Tabasco
+112,ReverseManhattan,Spirit-forward,Vermouth / Aperitif Wine,Modern Classics,Neat/Up,Stirred,Strong,Medium,Angostura
+112,ReverseManhattan,Spirit-forward,Vermouth / Aperitif Wine,Modern Classics,Neat/Up,Stirred,Strong,Medium,carpano
+112,ReverseManhattan,Spirit-forward,Vermouth / Aperitif Wine,Modern Classics,Neat/Up,Stirred,Strong,Medium,Cocchi
+112,ReverseManhattan,Spirit-forward,Vermouth / Aperitif Wine,Modern Classics,Neat/Up,Stirred,Strong,Medium,Punt e Mes
+113,ReverseMartiniBartendersSpecial,Spirit-forward,Vermouth / Aperitif Wine,Martinis,Neat/Up,Stirred,Strong,Medium,Dolin
+113,ReverseMartiniBartendersSpecial,Spirit-forward,Vermouth / Aperitif Wine,Martinis,Neat/Up,Stirred,Strong,Medium,Luxardo
+113,ReverseMartiniBartendersSpecial,Spirit-forward,Vermouth / Aperitif Wine,Martinis,Neat/Up,Stirred,Strong,Medium,Spirit Works
+113,ReverseMartiniBartendersSpecial,Spirit-forward,Vodka,Martinis,Neat/Up,Stirred,Strong,Medium,Dolin
+113,ReverseMartiniBartendersSpecial,Spirit-forward,Vodka,Martinis,Neat/Up,Stirred,Strong,Medium,Luxardo
+113,ReverseMartiniBartendersSpecial,Spirit-forward,Vodka,Martinis,Neat/Up,Stirred,Strong,Medium,Spirit Works
+114,RoomTemperatureMartiniNo_1,Spirit-forward,Gin,Classics,Neat/Up,Stirred,Strong,Medium,Booth's
+114,RoomTemperatureMartiniNo_1,Spirit-forward,Gin,Classics,Neat/Up,Stirred,Strong,Medium,Montanaro
+115,Saturn,Fruity/Citrus-forward,Gin,Tiki / Tropical,Frozen,Blended,Medium,Medium,None
+116,Sazerac,Spirit-forward,Brandy,Classics,Neat/Up,Stirred,Strong,Medium,Angostura
+116,Sazerac,Spirit-forward,Brandy,Classics,Neat/Up,Stirred,Strong,Medium,Hennessy
+116,Sazerac,Spirit-forward,Brandy,Classics,Neat/Up,Stirred,Strong,Medium,Peychaud's
+116,Sazerac,Spirit-forward,Cognac,Classics,Neat/Up,Stirred,Strong,Medium,Angostura
+116,Sazerac,Spirit-forward,Cognac,Classics,Neat/Up,Stirred,Strong,Medium,Hennessy
+116,Sazerac,Spirit-forward,Cognac,Classics,Neat/Up,Stirred,Strong,Medium,Peychaud's
+116,Sazerac,Spirit-forward,Rye Whiskey,Classics,Neat/Up,Stirred,Strong,Medium,Angostura
+116,Sazerac,Spirit-forward,Rye Whiskey,Classics,Neat/Up,Stirred,Strong,Medium,Hennessy
+116,Sazerac,Spirit-forward,Rye Whiskey,Classics,Neat/Up,Stirred,Strong,Medium,Peychaud's
+117,Scofflaw,Sour,Bourbon / American Whiskey,Classics,Neat/Up,Shaken,Medium,Medium,George Dickel
+117,Scofflaw,Sour,Rye Whiskey,Classics,Neat/Up,Shaken,Medium,Medium,George Dickel
+117,Scofflaw,Sour,Vermouth / Aperitif Wine,Classics,Neat/Up,Shaken,Medium,Medium,George Dickel
+117,Scofflaw,Spirit-forward,Bourbon / American Whiskey,Classics,Neat/Up,Shaken,Medium,Medium,George Dickel
+117,Scofflaw,Spirit-forward,Rye Whiskey,Classics,Neat/Up,Shaken,Medium,Medium,George Dickel
+117,Scofflaw,Spirit-forward,Vermouth / Aperitif Wine,Classics,Neat/Up,Shaken,Medium,Medium,George Dickel
+117,Scofflaw,Sweet,Bourbon / American Whiskey,Classics,Neat/Up,Shaken,Medium,Medium,George Dickel
+117,Scofflaw,Sweet,Rye Whiskey,Classics,Neat/Up,Shaken,Medium,Medium,George Dickel
+117,Scofflaw,Sweet,Vermouth / Aperitif Wine,Classics,Neat/Up,Shaken,Medium,Medium,George Dickel
+118,Screwdriver,Fruity/Citrus-forward,Vodka,Classics,On the Rocks,None,Medium,Simple,None
+118,Screwdriver,Sweet,Vodka,Classics,On the Rocks,None,Medium,Simple,None
+119,SexontheBeach,Fruity/Citrus-forward,Vodka,Tiki / Tropical,On the Rocks,Shaken,Medium,Medium,None
+119,SexontheBeach,Sweet,Vodka,Tiki / Tropical,On the Rocks,Shaken,Medium,Medium,None
+120,ShamrockShot,Creamy,Vodka,Shots,Neat/Up,Shaken,Medium,Medium,None
+120,ShamrockShot,Sweet,Vodka,Shots,Neat/Up,Shaken,Medium,Medium,None
+121,SingaporeSling,Bubbly,Gin,Classics,On the Rocks,Shaken,Medium,Medium,None
+121,SingaporeSling,Bubbly,Gin,Tiki / Tropical,On the Rocks,Shaken,Medium,Medium,None
+121,SingaporeSling,Sour,Gin,Classics,On the Rocks,Shaken,Medium,Medium,None
+121,SingaporeSling,Sour,Gin,Tiki / Tropical,On the Rocks,Shaken,Medium,Medium,None
+121,SingaporeSling,Sweet,Gin,Classics,On the Rocks,Shaken,Medium,Medium,None
+121,SingaporeSling,Sweet,Gin,Tiki / Tropical,On the Rocks,Shaken,Medium,Medium,None
+122,SnapChatRum,Fruity/Citrus-forward,Rum,Modern Classics,Neat/Up,Shaken,Medium,Medium,None
+123,SourT-iesel,Fruity/Citrus-forward,Tequila,Margaritas,Neat/Up,Shaken,Medium,Medium,None
+123,SourT-iesel,Fruity/Citrus-forward,Tequila,Modern Classics,Neat/Up,Shaken,Medium,Medium,None
+124,SouthSide,Fruity/Citrus-forward,Gin,Classics,Neat/Up,Shaken,Medium,Medium,No. 3
+124,SouthSide,Sweet,Gin,Classics,Neat/Up,Shaken,Medium,Medium,No. 3
+125,SpanishGinTonic,None,Gin,Modern Classics,On the Rocks,Stirred,Light,Simple,None
+126,SparklingRoseMargarita,Fruity/Citrus-forward,Tequila,Punches,On the Rocks,Stirred,Medium,Medium,None
+126,SparklingRoseMargarita,Sweet,Tequila,Punches,On the Rocks,Stirred,Medium,Medium,None
+127,SparklingWatermelonPunch,Fruity/Citrus-forward,Vodka,Punches,On the Rocks,Stirred,Medium,Medium,None
+127,SparklingWatermelonPunch,Fruity/Citrus-forward,Sweet,Punches,On the Rocks,Stirred,Medium,Medium,None
+128,SpicyMintAvocadoMargarita,Spicy,Tequila,Modern Classics,On the Rocks,Shaken,Medium,Medium,None
+128,SpicyMintAvocadoMargarita,Sweet,Tequila,Modern Classics,On the Rocks,Shaken,Medium,Medium,None
+129,StrawberryBasilMargarita,Fruity/Citrus-forward,Tequila,Margaritas,On the Rocks,Shaken,Medium,Complicated,Cointreau
+130,StrawberryDaiquiri,Fruity/Citrus-forward,Rum,Classics,Frozen,Blended,Medium,Complicated,None
+130,StrawberryDaiquiri,Fruity/Citrus-forward,Rum,Frozen / Blended,Frozen,Blended,Medium,Complicated,None
+130,StrawberryDaiquiri,Fruity/Citrus-forward,Rum,Tiki / Tropical,Frozen,Blended,Medium,Complicated,None
+130,StrawberryDaiquiri,Sour,Rum,Classics,Frozen,Blended,Medium,Complicated,None
+130,StrawberryDaiquiri,Sour,Rum,Frozen / Blended,Frozen,Blended,Medium,Complicated,None
+130,StrawberryDaiquiri,Sour,Rum,Tiki / Tropical,Frozen,Blended,Medium,Complicated,None
+130,StrawberryDaiquiri,Sweet,Rum,Classics,Frozen,Blended,Medium,Complicated,None
+130,StrawberryDaiquiri,Sweet,Rum,Frozen / Blended,Frozen,Blended,Medium,Complicated,None
+130,StrawberryDaiquiri,Sweet,Rum,Tiki / Tropical,Frozen,Blended,Medium,Complicated,None
+131,SufferingBastard,Fruity/Citrus-forward,Bourbon / American Whiskey,Tiki / Tropical,On the Rocks,Shaken,Medium,Medium,Angostura
+131,SufferingBastard,Fruity/Citrus-forward,Gin,Tiki / Tropical,On the Rocks,Shaken,Medium,Medium,Angostura
+131,SufferingBastard,Fruity/Citrus-forward,Whiskey,Tiki / Tropical,On the Rocks,Shaken,Medium,Medium,Angostura
+132,SummerthymeScrewdriver,Fruity/Citrus-forward,Vodka,Punches,On the Rocks,Stirred,Medium,Medium,Aperol
+133,Teal-quilaSunrise,Fruity/Citrus-forward,Tequila,Modern Classics,On the Rocks,Shaken,Light,Medium,Grand Marnier
+133,Teal-quilaSunrise,Fruity/Citrus-forward,Sweet,Modern Classics,On the Rocks,Shaken,Light,Medium,Grand Marnier
+134,TequilaManhattan,Fruity/Citrus-forward,Tequila,Modern Classics,On the Rocks,Stirred,Medium,Medium,Cazadores
+135,TheDeadRabbitIrishCoffee,Bitter,Irish Whiskey,Classics,Hot/Warm,None,Medium,Medium,Clontarf
+135,TheDeadRabbitIrishCoffee,Bitter,Irish Whiskey,Hot,Hot/Warm,None,Medium,Medium,Clontarf
+135,TheDeadRabbitIrishCoffee,Sweet,Irish Whiskey,Classics,Hot/Warm,None,Medium,Medium,Clontarf
+135,TheDeadRabbitIrishCoffee,Sweet,Irish Whiskey,Hot,Hot/Warm,None,Medium,Medium,Clontarf
+136,TomCollins,Bubbly,Gin,Classics,On the Rocks,Shaken,Medium,Medium,None
+136,TomCollins,Sour,Gin,Classics,On the Rocks,Shaken,Medium,Medium,None
+136,TomCollins,Bubbly,Gin,Classics,On the Rocks,Shaken,Medium,Medium,None
+137,ToughtoHear,Sour,Absinthe,Shots,Neat/Up,Shaken,Medium,Complicated,Leopold Brothers
+137,ToughtoHear,Sour,Absinthe,Shots,Neat/Up,Shaken,Medium,Complicated,st. germain
+137,ToughtoHear,Sour,Liqueurs,Shots,Neat/Up,Shaken,Medium,Complicated,Leopold Brothers
+137,ToughtoHear,Sour,Liqueurs,Shots,Neat/Up,Shaken,Medium,Complicated,st. germain
+137,ToughtoHear,Spicy,Absinthe,Shots,Neat/Up,Shaken,Medium,Complicated,Leopold Brothers
+137,ToughtoHear,Spicy,Absinthe,Shots,Neat/Up,Shaken,Medium,Complicated,st. germain
+137,ToughtoHear,Spicy,Liqueurs,Shots,Neat/Up,Shaken,Medium,Complicated,Leopold Brothers
+137,ToughtoHear,Spicy,Liqueurs,Shots,Neat/Up,Shaken,Medium,Complicated,st. germain
+137,ToughtoHear,Sweet,Absinthe,Shots,Neat/Up,Shaken,Medium,Complicated,Leopold Brothers
+137,ToughtoHear,Sweet,Absinthe,Shots,Neat/Up,Shaken,Medium,Complicated,st. germain
+137,ToughtoHear,Sweet,Liqueurs,Shots,Neat/Up,Shaken,Medium,Complicated,Leopold Brothers
+137,ToughtoHear,Sweet,Liqueurs,Shots,Neat/Up,Shaken,Medium,Complicated,st. germain
+138,TurfClub,Spirit-forward,Gin,Classics,Neat/Up,Stirred,Strong,Medium,Angostura
+139,UncleAngelosEggnog,Creamy,Bourbon / American Whiskey,Classics,Neat/Up,Stirred,Medium,Medium,None
+139,UncleAngelosEggnog,Creamy,Bourbon / American Whiskey,Punches,Neat/Up,Stirred,Medium,Medium,None
+139,UncleAngelosEggnog,Creamy,Rum,Classics,Neat/Up,Stirred,Medium,Medium,None
+139,UncleAngelosEggnog,Creamy,Rum,Punches,Neat/Up,Stirred,Medium,Medium,None
+139,UncleAngelosEggnog,Spirit-forward,Bourbon / American Whiskey,Classics,Neat/Up,Stirred,Medium,Medium,None
+139,UncleAngelosEggnog,Spirit-forward,Bourbon / American Whiskey,Punches,Neat/Up,Stirred,Medium,Medium,None
+139,UncleAngelosEggnog,Spirit-forward,Rum,Classics,Neat/Up,Stirred,Medium,Medium,None
+139,UncleAngelosEggnog,Spirit-forward,Rum,Punches,Neat/Up,Stirred,Medium,Medium,None
+139,UncleAngelosEggnog,Sweet,Bourbon / American Whiskey,Classics,Neat/Up,Stirred,Medium,Medium,None
+139,UncleAngelosEggnog,Sweet,Bourbon / American Whiskey,Punches,Neat/Up,Stirred,Medium,Medium,None
+139,UncleAngelosEggnog,Sweet,Rum,Classics,Neat/Up,Stirred,Medium,Medium,None
+139,UncleAngelosEggnog,Sweet,Rum,Punches,Neat/Up,Stirred,Medium,Medium,None
+140,UptownWays,Bubbly,Champagne & Sparkling Wine,Modern Classics,Neat/Up,Shaken,Medium,Complicated,Hennessy
+140,UptownWays,Bubbly,Cognac,Modern Classics,Neat/Up,Shaken,Medium,Complicated,Hennessy
+140,UptownWays,Sweet,Champagne & Sparkling Wine,Modern Classics,Neat/Up,Shaken,Medium,Complicated,Hennessy
+140,UptownWays,Sweet,Cognac,Modern Classics,Neat/Up,Shaken,Medium,Complicated,Hennessy
+141,Vesper,Spirit-forward,Gin,Classics,	Neat/Up,Stirred,Strong,Medium,None
+141,Vesper,Spirit-forward,vodka,Classics,	Neat/Up,Stirred,Strong,Medium,None
+142,VieuxCarre,Spirit-forward,Cognac,Classics,	Neat/Up,Stirred,Medium,Medium,Angostura
+142,VieuxCarre,Spirit-forward,Rye Whiskey,Classics,	Neat/Up,Stirred,Medium,Medium,Angostura
+142,VieuxCarre,Spirit-forward,Cognac,Classics,	Neat/Up,Stirred,Medium,Medium,Benedictine
+142,VieuxCarre,Spirit-forward,Rye Whiskey,Classics,	Neat/Up,Stirred,Medium,Medium,Benedictine
+142,VieuxCarre,Spirit-forward,Cognac,Classics,	Neat/Up,Stirred,Medium,Medium,Hennessy
+142,VieuxCarre,Spirit-forward,Rye Whiskey,Classics,	Neat/Up,Stirred,Medium,Medium,Hennessy
+142,VieuxCarre,Spirit-forward,Cognac,Classics,	Neat/Up,Stirred,Medium,Medium,Peychaud's
+142,VieuxCarre,Spirit-forward,Rye Whiskey,Classics,	Neat/Up,Stirred,Medium,Medium,Peychaud's
+143,Vladimiry,Salty/Savory,Vodka,Modern Classics,On the Rocks,Stirred,Medium,Medium,None
+144,VodkaSoda,Spirit-forward,Vodka,Classics,On the Rocks,Stirred,	Medium,Simple,None
+145,WatermelonBlackberryMargaritaPopsicles,Fruity/Citrus-forward,Tequila,Frozen / Blended,Frozen,Blended,Medium,Medium,Pura Vida
+146,WatermelonMargarita,Sweet,Tequila,Modern Classics,On the Rocks,Shaken,Medium,Medium,None
+147,WatermelonWhiteWineSpritzer,Fruity/Citrus-forward,Wine,None,Frozen,Blended,Light,Medium,None
+148,WhiskeySmash,Fruity/Citrus-forward,Bourbon / American Whiskey,Classics,On the Rocks,Shaken,Medium,Medium,George Dickel
+148,WhiskeySmash,Fruity/Citrus-forward,Whiskey,Classics,On the Rocks,Shaken,Medium,Medium,George Dickel
+148,WhiskeySmash,Sour,Bourbon / American Whiskey,Classics,On the Rocks,Shaken,Medium,Medium,George Dickel
+148,WhiskeySmash,Sour,Whiskey,Classics,On the Rocks,Shaken,Medium,Medium,George Dickel
+148,WhiskeySmash,Sweet,Bourbon / American Whiskey,Classics,On the Rocks,Shaken,Medium,Medium,George Dickel
+148,WhiskeySmash,Sweet,Whiskey,Classics,On the Rocks,Shaken,Medium,Medium,George Dickel
+149,WhiskeySour,Sour,Bourbon / American Whiskey,Modern Classics,Neat/Up,Shaken,Medium,Medium,None
+149,WhiskeySour,Sour,Whiskey,Modern Classics,Neat/Up,Shaken,Medium,Medium,None
+150,WinterDaiquiri,Sweet,Rum,Modern Classics,Neat/Up,Shaken,Medium,Medium,Banks
+150,WinterDaiquiri,Sweet,Rum,Modern Classics,Neat/Up,Shaken,Medium,Medium,Cruzan
+151,X-MasSin,Spirit-forward,Armagnac,Modern Classics,Hot/Warm,Hot/Warm,Strong,Medium,Chateau de Laubade
+151,X-MasSin,Spirit-forward,Armagnac,Modern Classics,Neat/Up,Cooked/Heated,Strong,Medium,Chateau de Laubade
+152,YodaSour,Sour,Pisco,Modern Classics,Neat/Up,Shaken,Medium,Medium,None
