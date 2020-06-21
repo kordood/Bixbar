@@ -5,7 +5,7 @@ var config = require('config')
 module.exports.function = function createUser (survey, $vivContext) {
 
   var user;
-  if(survey.isGender["isMale"] == true){
+  if(survey.gender == "Male"){
     user = {
     "gender": "Male",
     "age": survey.age,
@@ -20,15 +20,17 @@ module.exports.function = function createUser (survey, $vivContext) {
     };
   }
   
+
   var options = {
     passAsJson: true,
     returnHeaders: true,
-    format: 'json',
+    format: 'json'
   };
-  //var response = http.postUrl(config.get('remote.url') + '/user', user, options);
-  
-  var response = http.postUrl('http://www.bixbar.com/user', user, options);
-  console.log("response : " + response);
-  console.log("response.parsed : " + response.parsed)
-  return user//response.parsed;
+
+  let url = "http://www.bixbar.com/user";
+
+  var response = http.postUrl(url, user, options);
+
+  console.log(response);
+  return response.parsed;
 }

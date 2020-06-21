@@ -1,0 +1,23 @@
+action (SelectGender) {
+  type(Search)
+  description (select gender?)
+  collect {
+    input (gender) {
+      type (Gender)
+      min (Required) max (Many)
+
+      prompt-behavior (AlwaysSelection)
+
+      default-init{
+        intent{
+          goal : FindGender
+        }
+      }
+    }
+  }
+  output (Gender){
+    evaluate{
+      $expr(gender)
+    }
+  }
+}

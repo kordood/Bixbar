@@ -7,8 +7,8 @@ endpoints {
      }
 
      action-endpoint (BaseClickRecipe) {
-       accepted-inputs (cocktailName)
-       local-endpoint (findbyCocktailName.js)
+       accepted-inputs (title)
+       local-endpoint (findbyBaseClick.js)
      }
 
      action-endpoint (BaseList) {
@@ -22,8 +22,14 @@ endpoints {
      }
 
      action-endpoint (SubmitSurvey) {
-       accepted-inputs (age, isGender)
+       accepted-inputs (age, gender)
        local-endpoint (submitSurvey.js)
+     }
+
+     action-endpoint (FindGender) {
+       //accepted-inputs (searchTerm)
+       accepted-inputs ()
+       local-endpoint (findGender.js)
      }
 
 

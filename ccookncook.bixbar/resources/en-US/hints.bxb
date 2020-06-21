@@ -6,5 +6,12 @@ hints {
     hint ("Ask Bixbar to show me the recipe of Dry Martini"){
       preferred-hint ("recipe")
     }
+
+    hint ("Ask Bixbar to recommand a cocktail"){
+      preferred-hint ("recommand")
+    }
+    hint ("Ask Bixbar to food pair of beer"){
+      preferred-hint ("food")
+    }
   }
 }

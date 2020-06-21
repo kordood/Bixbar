@@ -1,5 +1,5 @@
 train (t-qyunoqchngxguqzagsgfdk16n) {
-  utterance ("[g:CreateUser] age (24,)[v:Age] (Female)[v:IsGender] recommand")
-  plan (Y2BjkCnISaxML8ovzUvRS8qsSEos0gvLLHPOzytJrSjBJutclJpYkhpanFrEIIEpG1xaVJZaySCHTSYpN7MEKi+KKe+YnsoghSnsWeyempcCtIyVgZGBiYGZgQXIYoCymYE0AxiDAIgHlgUA)
-  last-modified (1590930410621)
+  utterance ("[g:CreateUser] age (24,)[v:Age] (Female)[v:Gender] recommand")
+  plan (Y2BjkCnISaxML8ovzUvRS8qsSEos0gvLLHPOzytJrSjBJutclJpYkhpanFrEIIEpG1xaVJZaySCHTSYpN7MEKi+KKe+YnorNQPfUvBSgVawMjAxMDMwMLEAWA5TNDKQZwBgEQDywLAA=)
+  last-modified (1592640131595)
 }
