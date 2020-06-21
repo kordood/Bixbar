@@ -13,7 +13,7 @@ structure (FoodResults) {
 
   property (foodsTitle) {
     type (FoodName)
-    min (Optional) max (One)
+    min (Required) max (One)
   }
 
   property (ingFoods) {

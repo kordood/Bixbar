@@ -1,5 +1,4 @@
 train (t-qpb6f7f2rcz8fgw62d0bs5mpl) {
   utterance ("[g:CreateUser] age (24,)[v:Age] (Female)[v:Gender] recommand")
-  enabled (false)
-  last-modified (1590930737108)
+  last-modified (1590911597820)
 }

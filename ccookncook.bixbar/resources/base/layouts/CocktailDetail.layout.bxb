@@ -27,7 +27,7 @@ layout-macro-def(cocktail-details) {
  					 content{
 							paragraph{
 								value("How to make #{value(this.title)}?")
-								style(Title_S)
+								style(Title_L)
 							}
 							if(size(this.recipe) > 1){
 							for-each (this.recipe){
@@ -46,7 +46,7 @@ layout-macro-def(cocktail-details) {
 					content{
 						paragraph{
 							value("Ingredients You Need")
-							style(Title_S)
+							style(Title_L)
 						}
 							if(size(this.liquor) >= 1){
 		for-each (this.liquor){
@@ -124,7 +124,7 @@ layout-macro-def(cocktail-details) {
 					content{
 						paragraph{
 							value("Profile")
-							style(Title_S)
+							style(Title_L)
 						}
 				//flavor
 					 hbox{

@@ -25,11 +25,11 @@ render{
          on-click
          {
            intent{
-             goal : playground.bixbar.BaseClickResults
-             route : BaseClickRecipe
-             value :  $expr(item.title)
+             goal : playground.bixbar.BaseClickRecipe
              
+             value : $expr(item.title)
            }
+           //  view-for(item)
          }
          aspect-ratio (4:3)
          title-area { halign (Start)

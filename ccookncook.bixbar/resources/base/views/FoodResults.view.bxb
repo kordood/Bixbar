@@ -22,24 +22,99 @@ render{
        as(item){
          section{
            content{
-             image-card {
-         
-         aspect-ratio (4:3)
-         title-area { halign (Start)
-           slot1 {
-             text { value ("#{value(item.foodsTitle)}") style (Title_M) }
+             if(i%4 == 0){
+               image-card {
+               aspect-ratio (4:3)
+               
+               image-url(https://cdn.pixabay.com/photo/2015/04/20/17/39/cocktails-731898_1280.jpg)
+               title-area { 
+                 halign (Start)
+                 slot1 {
+                   text { 
+                     value ("#{value(item.foodsTitle)}") style (Title_XL) 
+                     }
+                  }
+                  slot2 {
+                    single-line {
+                      text { 
+                        value ("Match Cocktail :  #{value(item.matchCocktails[0])}") style (Detail_L) 
+                       }
+                     }
+                  } 
+                 }
+                }
+
              }
-           slot2 {
-             single-line {
-             text { value ("Match Cocktail :  #{value(item.matchCocktails[0])}") style (Detail_L) }
+             if(i%4 == 1){
+               image-card {
+               aspect-ratio (4:3)
+               
+               image-url(https://cdn.pixabay.com/photo/2018/03/12/21/37/table-3220967_1280.jpg)
+               title-area { 
+                 halign (Start)
+                 slot1 {
+                   text { 
+                     value ("#{value(item.foodsTitle)}") style (Title_XL) 
+                     }
+                  }
+                  slot2 {
+                    single-line {
+                      text { 
+                        value ("Match Cocktail :  #{value(item.matchCocktails[0])}") style (Detail_L) 
+                       }
+                     }
+                  } 
+                 }
+                }
+
              }
+             if(i%4 == 2){
+               image-card {
+               aspect-ratio (4:3)
+               
+               image-url(https://www.cambridgewine.com/Uploads/onyx-cocktail-and-tapas.jpg)
+               title-area { 
+                 halign (Start)
+                 slot1 {
+                   text { 
+                     value ("#{value(item.foodsTitle)}") style (Title_XL) 
+                     }
+                  }
+                  slot2 {
+                    single-line {
+                      text { 
+                        value ("Match Cocktail :  #{value(item.matchCocktails[0])}") style (Detail_L) 
+                       }
+                     }
+                  } 
+                 }
+                }
+
              }
-           }
-           image-object-fit (Cover){
-             image (/assets/images/cocktail-food-img.jpg)
-           }
-       
-      }
+             if(i%4 == 3){
+               image-card {
+               aspect-ratio (4:3)
+               
+               image-url(https://media-cdn.tripadvisor.com/media/photo-s/08/53/bb/49/single-malt-bali.jpg)
+               title-area { 
+                 halign (Start)
+                 slot1 {
+                   text { 
+                     value ("#{value(item.foodsTitle)}") style (Title_XL) 
+                     }
+                  }
+                  slot2 {
+                    single-line {
+                      text { 
+                        value ("Match Cocktail :  #{value(item.matchCocktails[0])}") style (Detail_L) 
+                       }
+                     }
+                  } 
+                 }
+                }
+
+             }
+
              
            }
          }

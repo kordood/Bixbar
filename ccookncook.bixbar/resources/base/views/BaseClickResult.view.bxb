@@ -1,0 +1,32 @@
+result-view{
+  match : BaseClickResults(item){
+	//	min (Required) max (Many)
+	}
+
+  message{
+    template("Check all about #{value(item.title)}!")
+  }
+	render{
+		if(size(item) > 1){
+			
+			layout-macro (cocktail-details){
+					param(this){
+						expression(item)
+					}
+				}
+		
+		}
+
+		else-if (size(item) == 1){
+			layout{
+				layout-macro (cocktail-details){
+					param(this){
+						expression(item)
+					}
+				}
+			}
+		}
+	
+	  }  conversation-drivers{}
+ 
+}

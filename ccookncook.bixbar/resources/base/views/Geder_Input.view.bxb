@@ -1,31 +1,47 @@
 input-view {
   match {
-    IsGender (isGender) { 
+    Gender (this) { 
       to-input: SubmitSurvey
     }
   }
   message {
     template ("What is your gender?(Female/Male)")
   }
+  
   render {
-    form {
-      elements {
-        checkbox {
-          id (isMale)
-          type (viv.core.Boolean)
-          primary-text("Male")
-        }
-        checkbox {
-          id (isFemale)
-          type (viv.core.Boolean)
-          primary-text("Female")
-        }
-      }
-      on-submit {
-        goal: IsGender
-        value: IsGender{
-          isMale : viv.core.FormElement(isMale)
-          isFemale : viv.core.FormElement(isFemale)
+    
+    // form {
+    //   elements {
+    //     checkbox {
+    //       id (isMale)
+    //       type (viv.core.Boolean)
+    //       primary-text("Male")
+    //     }
+    //     checkbox {
+    //       id (isFemale)
+    //       type (viv.core.Boolean)
+    //       primary-text("Female")
+    //     }
+    //   }
+    //   on-submit {
+    //     goal: IsGender
+    //     value: IsGender{
+    //       isMale : viv.core.FormElement(isMale)
+    //       isFemale : viv.core.FormElement(isFemale)
+    //     }
+    //   }
+    // }
+    selection-of (this){
+      where-each (one){
+        cell-card{
+          slot2{
+            content{
+              primary{
+                template("#value (one)")
+                  //template("Male")
+              }
+            }
+          }
         }
       }
     }

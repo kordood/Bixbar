@@ -1,0 +1,13 @@
+action (FindGender) {
+  description (find gender)
+  type(Search)
+
+// collect{
+//   input(searchTerm){
+//     type(SearchTerm)
+//     min (Optional) max (One)
+//   }
+// } 
+
+output(Gender)
+}
