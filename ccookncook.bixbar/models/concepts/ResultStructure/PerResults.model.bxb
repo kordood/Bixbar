@@ -1,11 +1,7 @@
-structure (BaseResults) {
-  //결과.
-  //coctail name,
-  //profile(base spirit)
-  
-  description (Results for cocktails found by base spirit)
- 
- //title
+structure (PerResults) {
+  description (result from personalize)
+
+  //title
  property (title){
    type(Title)
    min(Required) max(One)
@@ -94,5 +90,5 @@ structure (BaseResults) {
   property (brands){
    type(Brands)
    min(Optional) max(Many)
-  }  
+  }
 }

@@ -11,6 +11,11 @@ structure (FoodResults) {
     min (Optional) max (One)
   }
 
+  property (matchLiquor) {
+    type (MatchLiquor)
+    min (Optional) max (One)
+  }
+
   property (foodsTitle) {
     type (FoodName)
     min (Required) max (One)
@@ -25,6 +30,7 @@ structure (FoodResults) {
     type (IngFoodsUnit)
     min (Optional) max (One)
   }
+
 
 
 }

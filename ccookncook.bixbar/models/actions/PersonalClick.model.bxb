@@ -1,0 +1,11 @@
+action (PersonalClick) {
+  description (when user clicks the item in the list)
+  type(Search)
+  collect {
+    input (perResults) {
+      type (PerResults)
+      min (Required) max (One)
+    }
+  }
+  output (PerResults)
+}

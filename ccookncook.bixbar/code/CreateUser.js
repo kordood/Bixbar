@@ -32,5 +32,5 @@ module.exports.function = function createUser (survey, $vivContext) {
   var response = http.postUrl(url, user, options);
 
   console.log(response);
-  return response.parsed;
+  return user;
 }

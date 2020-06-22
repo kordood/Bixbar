@@ -1,0 +1,415 @@
+result-view{
+match : PerResults(this){
+	//	min (Required) max (Many)
+} 
+
+message{
+  
+    template("Check all about it!")
+}
+
+render{
+  if (size (this) == 1) {   //결과가 하나일때
+   
+
+
+    layout{
+      //content{
+    section{
+      content {
+   paragraph{
+			
+						value ("#{value(this.title)}")
+						style (Title_L)
+					}
+					//image
+				  image{
+					 aspect-ratio(1:1)
+					 url ("#{value(this.img)}")
+					 object-fit (Cover)
+					
+					}
+					//recipe
+					partitioned {
+ 					 content{
+							paragraph{
+								value("How to make #{value(this.title)}?")
+								style(Title_L)
+							}
+							if(size(this.recipe) > 1){
+							for-each (this.recipe){
+								as(item){
+								paragraph{
+									value("#{value(item)}")
+									style(Detail_M)
+								}
+								}
+							}
+						}
+							}
+					}
+					//ingredients
+				partitioned{
+					content{
+						paragraph{
+							value("Ingredients You Need")
+							style(Title_L)
+						}
+							if(size(this.liquor) >= 1){
+		for-each (this.liquor){
+			as(item){
+        hbox{
+          content{
+           vbox{
+            content{                
+              text{
+                 value("#{value(item)}")
+						    style(Detail_M)
+              }
+            }
+         }
+          vbox{              
+             content{
+              text{
+                value("#{value(this.liquorml[i])}")
+						    style(Detail_M)
+                }
+              }
+            }
+          }
+		    }
+      }
+    }
+	}
+				//glass
+					 hbox{
+					 	content{
+					 		vbox{
+					 			content{
+					 				text{
+					 					value("Glass")
+					 					style(Detail_L)
+					 				}
+					 			}
+					 		}
+					 		vbox{
+					 			content{
+					 				text{
+					 					value("#{value(this.glass)}")
+					 					style(Detail_L_Soft)
+					 				}
+
+					 			}
+					 		}
+					 	}
+					 }
+					 //garnish
+					 hbox{
+					 	content{
+					 		vbox{
+					 			content{
+					 				text{
+					 					value("Garnish")
+					 					style(Detail_L)
+					 				}
+					 			}
+					 		}
+					 		vbox{
+					 			content{
+					 				text{
+					 					value("#{value(this.garnish)}")
+					 					style(Detail_L_Soft)
+					 				}
+
+					 			}
+					 		}
+					 	}
+					 }
+				}}
+				//profile
+				partitioned{
+					content{
+						paragraph{
+							value("Profile")
+							style(Title_L)
+						}
+				//flavor
+					 hbox{
+					 	content{
+					 		vbox{
+					 			content{
+					 				text{
+					 					value("Flavor")
+					 					style(Detail_L)
+					 				}
+					 			}
+					 		}
+					 		vbox{
+					 			content{
+					 				text{
+					 					value("#{value(this.flavor)}")
+					 					style(Detail_L_Soft)
+					 				}
+
+					 			}
+					 		}
+					 	}
+					 }
+					 
+					 hbox{
+					 	content{
+					 		vbox{
+					 			content{
+					 				text{
+					 					value("Base Spirit")
+					 					style(Detail_L)
+					 				}
+					 			}
+					 		}
+					 		vbox{
+					 			content{
+					 				text{
+					 					value("#{value(this.baseSpirit)}")
+					 					style(Detail_L_Soft)
+					 				}
+
+					 			}
+					 		}
+					 	}
+					 }
+					 hbox{
+					 	content{
+					 		vbox{
+					 			content{
+					 				text{
+					 					value("Cocktail Type")
+					 					style(Detail_L)
+					 				}
+					 			}
+					 		}
+					 		vbox{
+					 			content{
+					 				text{
+					 					value("#{value(this.cocktailType)}")
+					 					style(Detail_L_Soft)
+					 				}
+
+					 			}
+					 		}
+					 	}
+					 }
+					 hbox{
+					 	content{
+					 		vbox{
+					 			content{
+					 				text{
+					 					value("Served")
+					 					style(Detail_L)
+					 				}
+					 			}
+					 		}
+					 		vbox{
+					 			content{
+					 				text{
+					 					value("#{value(this.served)}")
+					 					style(Detail_L_Soft)
+					 				}
+
+					 			}
+					 		}
+					 	}
+					 }
+					 hbox{
+					 	content{
+					 		vbox{
+					 			content{
+					 				text{
+					 					value("Preparation")
+					 					style(Detail_L)
+					 				}
+					 			}
+					 		}
+					 		vbox{
+					 			content{
+					 				text{
+					 					value("#{value(this.preparation)}")
+					 					style(Detail_L_Soft)
+					 				}
+
+					 			}
+					 		}
+					 	}
+					 }
+					 hbox{
+					 	content{
+					 		vbox{
+					 			content{
+					 				text{
+					 					value("Strength")
+					 					style(Detail_L)
+					 				}
+					 			}
+					 		}
+					 		vbox{
+					 			content{
+					 				text{
+					 					value("#{value(this.strength)}")
+					 					style(Detail_L_Soft)
+					 				}
+
+					 			}
+					 		}
+					 	}
+					 }
+					 hbox{
+					 	content{
+					 		vbox{
+					 			content{
+					 				text{
+					 					value("Difficulty")
+					 					style(Detail_L)
+					 				}
+					 			}
+					 		}
+					 		vbox{
+					 			content{
+					 				text{
+					 					value("#{value(this.difficulty)}")
+					 					style(Detail_L_Soft)
+					 				}
+
+					 			}
+					 		}
+					 	}
+					 }
+					 hbox{
+					 	content{
+					 		vbox{
+					 			content{
+					 				text{
+					 					value("Hours")
+					 					style(Detail_L)
+					 				}
+					 			}
+					 		}
+					 		vbox{
+					 			content{
+					 				text{
+					 					value("#{value(this.hours)}")
+					 					style(Detail_L_Soft)
+					 				}
+
+					 			}
+					 		}
+					 	}
+					 }
+					 hbox{
+					 	content{
+					 		vbox{
+					 			content{
+					 				text{
+					 					value("Brands")
+					 					style(Detail_L)
+					 				}
+					 			}
+					 		}
+					 		vbox{
+					 			content{
+					 				text{
+					 					value("#{value(this.brands)}")
+					 					style(Detail_L_Soft)
+					 				}
+
+					 			}
+					 		}
+					 	}
+					 }
+				}}
+  }
+    }
+
+  }
+
+
+
+
+
+    // layout-match (this) {     
+    //   mode (Details)
+    // }
+
+
+
+
+
+
+  }
+  else{
+    layout{
+     for-each (this){ as(item){
+       section{
+          content {
+            image-card {
+             aspect-ratio(4:3)
+             image-object-fit(Cover)
+             image-object-position(Left)
+             image-url("#{value(item.img)}")
+             text-position(Below)
+             title-area {
+              slot1 {
+               text {
+                style(Title_L)
+                value("#{value(item.title)}")
+               } 
+              }
+              slot3 {
+               single-line {
+                text {
+                 color(Green)
+                 style(Detail_L)
+                 value("#{value(item.flavor)}")
+                }
+               spacer
+               text {
+                style(Detail_L_Soft)
+                value("#{value(item.baseSpirit)} • #{value(item.cocktailType)}")
+                }
+               } 
+              }
+             }
+             on-click {
+              intent {
+               goal : playground.bixbar.PersonalClick
+               value : $expr(item)
+               
+              }
+             }
+            }
+
+     }
+
+       }
+    
+     }
+     }
+    }
+  }
+}
+conversation-drivers{
+  if(size (this) <= 1){
+    conversation-driver {
+      template ("How can I make #{value(this[0].title)}")
+    }
+  }
+  else{
+    conversation-driver {
+      template ("Show me how to make #{value(this[0].title)}")
+    }
+    conversation-driver {
+      template ("Recipe of #{value(this[1].title)}")
+    }
+  }
+   
+  }
+}
+

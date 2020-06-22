@@ -39,7 +39,15 @@ endpoints {
        local-endpoint (CreateUser.js)
      }
 
-     
+     action-endpoint (Personalize) {
+       accepted-inputs ($vivContext)
+       local-endpoint (Personalize.js)
+     }
+
+     action-endpoint (PersonalClick) {
+       accepted-inputs ($vivContext, perResults)
+       local-endpoint (PersonalClick.js)
+     }
 
 
     // action-endpoint (__ACTION_NAME__) {

@@ -1,11 +1,4 @@
 const gender = ["Female", "Male"];
-//   {
-//     isGender : "Female",
-//   },
-//   {
-//     isGender : "Male",
-//   }
-// ]
 
 module.exports.function = function findGender() {
   //if (!searchTerm) {
