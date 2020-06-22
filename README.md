@@ -56,14 +56,18 @@ getfood : [http://www.bixbar.com/getfood/?q=](http://www.bixbar.com/getfood/?q=c
 
 # 팀 구성
 
-- **[박정아](http://github.com/co3oing)**
-  - Database 설계 및 구축, Data 삽입 및 조회 구현
-- **[송혜령](http://github.com/HyeRyeongSong)**
-  - 크롤링, 크롤링한 Data를 JSON 파일로 파싱
-- **[임규형](http://github.com/GyuHyoung)**
-  - Bixby NLP Training, 캡슐 설계, Modeling구현, 디자인, 웹서버와의 통신 구현
-- **[최민성](http://github.com/kordood)**
-  - Django 웹서버 구축, Bixby와의 통신(Response) 구현
+
+- **[송혜령](http://github.com/HyeRyeongSong) : Project Manager & Crawling Master**
+  - `Instagram Hash Tag Crwaling`, `Web Crwaling`, `Personalize`, `Bixby UI`, 
+  
+- **[박정아](http://github.com/co3oing) : Database Master**
+  - `Database Design`, `Server Migration`, `Bixby Action Modeling`, `Git & Notion Management`
+
+- **[임규형](http://github.com/GyuHyoung) : Bixby Master**
+  - `Bixby NLP Training`, `Bixby UI`, `Bixby Capsule Design`, `Connection to Server`
+  
+- **[최민성](http://github.com/kordood) : Django Master**
+  - `Server Migration`, `Personalize`, `Connection to Bixby`, `Server Design`
   
  <br/>
  
