@@ -107,3 +107,13 @@ getfood : [http://www.bixbar.com/getfood/?q=](http://www.bixbar.com/getfood/?q=c
   - Python 3.7
   - [liquor.com](http://liquor.com/)
   - [Instagram](https://www.instagram.com/)
+
+# 발표자료
+![슬라이드1](https://user-images.githubusercontent.com/28800101/85258305-3d0a2c80-b4a2-11ea-8c5c-7dbd4876f294.PNG)
+![슬라이드17](https://user-images.githubusercontent.com/28800101/85258339-4dbaa280-b4a2-11ea-8bad-bd91cbd2cb31.PNG)
+![슬라이드18](https://user-images.githubusercontent.com/28800101/85258344-4f846600-b4a2-11ea-99e7-7ec86e1aaa00.PNG)
+![슬라이드19](https://user-images.githubusercontent.com/28800101/85258348-514e2980-b4a2-11ea-9ee6-8a3f0adfb73c.PNG)
+![슬라이드20](https://user-images.githubusercontent.com/28800101/85258350-527f5680-b4a2-11ea-9aeb-50d12d867d8e.PNG)
+![슬라이드21](https://user-images.githubusercontent.com/28800101/85258356-54491a00-b4a2-11ea-83f4-ddd9a4c08d7a.PNG)
+![슬라이드23](https://user-images.githubusercontent.com/28800101/85258361-5612dd80-b4a2-11ea-9290-0cb31b79e79e.PNG)
+![슬라이드24](https://user-images.githubusercontent.com/28800101/85258365-57dca100-b4a2-11ea-84ee-87212ae265ed.PNG)
