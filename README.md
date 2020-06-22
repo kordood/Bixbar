@@ -24,12 +24,7 @@ getfood : [http://www.bixbar.com/getfood/?q=](http://www.bixbar.com/getfood/?q=c
 <br/>
 
 # Bixbar Interface
-![image](https://user-images.githubusercontent.com/28800101/85256434-2f9f7300-b49f-11ea-9a7e-a13363b8cc9c.png)
-![image](https://user-images.githubusercontent.com/28800101/85256440-31693680-b49f-11ea-9652-a1794cb5a624.png)
-![image](https://user-images.githubusercontent.com/28800101/85256445-33cb9080-b49f-11ea-85ad-738247d3d4ad.png)
-![image](https://user-images.githubusercontent.com/28800101/85256451-36c68100-b49f-11ea-8e51-d14b969a5440.png)
-![image](https://user-images.githubusercontent.com/28800101/85256466-3c23cb80-b49f-11ea-8397-f02b02f1fe8b.png)
-
+![제목 없음-2 복사](https://user-images.githubusercontent.com/28800101/85257078-2fec3e00-b4a0-11ea-8c1d-b3540ba630f2.png)
 
 <br/>
 
