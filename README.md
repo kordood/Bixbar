@@ -1,15 +1,17 @@
 # Bixbar
-> Notion : https://www.notion.so/ccookncook/Bixbar-b5401104a0d64fdc838d27505fbf27b2<br/>
-  Todo : https://www.notion.so/e22d389dddc04614a970bdd6ab76b43e?v=d27a9f78c04f42d5938b95431c942317<br/>
-  Google Drive : https://drive.google.com/drive/folders/1sxu2eGAEShhobkIA0Yb8Y_naYrI2JI9L
+> **Notion** : https://www.notion.so/ccookncook/Bixbar-b5401104a0d64fdc838d27505fbf27b2<br/>
+  **Todo** : https://www.notion.so/e22d389dddc04614a970bdd6ab76b43e?v=d27a9f78c04f42d5938b95431c942317<br/>
+  **Google Drive** : https://drive.google.com/drive/folders/1sxu2eGAEShhobkIA0Yb8Y_naYrI2JI9L
   
 - **[Bixbar](https://github.com/kordood/Bixbar/tree/master/Bixbar)**
   - Server
 - **[ccookncook.bixbar](https://github.com/kordood/Bixbar/tree/master/ccookncook.bixbar)**
   - Bixby
+- **[Crawling](https://github.com/kordood/Bixbar/tree/master/crawling)**
+  - Crawling
 
 # URLs
-[www.Bixbar.com](http://www.Bixbar.com)
+Notion : [www.Bixbar.com](http://www.Bixbar.com)
 
 cocktail : [http://www.bixbar.com/cocktail/?q=](http://www.bixbar.com/cocktail/?q=)
 
@@ -34,14 +36,18 @@ getfood : [http://www.bixbar.com/getfood/?q=](http://www.bixbar.com/getfood/?q=c
 
   - 레시피와 재료 등의 정보를 제공
 
-- **사용자 맞춤 칵테일 추천**
+- **베이스를 이용한 칵테일 검색**
 
-  - 사용자의 연령대, 성별 및 기본 취향을 수집하여 정확한 사용자 맞춤 추천
+  - 해당 베이스가 들어가는 칵테일 리스트 
 
 - **칵테일에 어울리는 안주 추천**
 
   - 칵테일-안주 페어링 정보에서 가장 높은 정확도를 보이는 안주 추천
 
+- **사용자 맞춤 칵테일 추천**
+
+  - 사용자의 연령대, 성별 및 기본 취향을 수집하여 정확한 사용자 맞춤 추천
+  
 <br/>
 
 # About Project
@@ -54,9 +60,9 @@ getfood : [http://www.bixbar.com/getfood/?q=](http://www.bixbar.com/getfood/?q=c
 
 - **[박정아](http://github.com/co3oing)**
   - Database 설계 및 구축, Data 삽입 및 조회 구현
-- **송혜령**
+- **[송혜령](http://github.com/HyeRyeongSong)**
   - 크롤링, 크롤링한 Data를 JSON 파일로 파싱
-- **임규형**
+- **[임규형](http://github.com/GyuHyoung)**
   - Bixby NLP Training, 캡슐 설계, Modeling구현, 디자인, 웹서버와의 통신 구현
 - **[최민성](http://github.com/kordood)**
   - Django 웹서버 구축, Bixby와의 통신(Response) 구현
@@ -87,8 +93,8 @@ getfood : [http://www.bixbar.com/getfood/?q=](http://www.bixbar.com/getfood/?q=c
 
 - **Server & DB**
 
-  - ~~Goorm IDE~~
   - AWS
+  - AWS Personalize
   - Django
   - Python 3.7
   - SQLite
@@ -98,3 +104,4 @@ getfood : [http://www.bixbar.com/getfood/?q=](http://www.bixbar.com/getfood/?q=c
   - Jupyter Notebook
   - Python 3.7
   - [liquor.com](http://liquor.com/)
+  - [Instagram](https://www.instagram.com/)
