@@ -1,10 +1,22 @@
 # Bixbar
 > Notion : https://www.notion.so/ccookncook/Bixbar-b5401104a0d64fdc838d27505fbf27b2
-
+  Todo : https://www.notion.so/e22d389dddc04614a970bdd6ab76b43e?v=d27a9f78c04f42d5938b95431c942317
+  Google Drive : https://drive.google.com/drive/folders/1sxu2eGAEShhobkIA0Yb8Y_naYrI2JI9L
 - **[Bixbar](https://github.com/kordood/Bixbar/tree/master/Bixbar)**
   - Server
 - **[ccookncook.bixbar](https://github.com/kordood/Bixbar/tree/master/ccookncook.bixbar)**
   - Bixby
+
+# URLs
+[www.Bixbar.com](http://www.Bixbar.com)
+
+cocktail : [http://www.bixbar.com/cocktail/?q=](http://www.bixbar.com/cocktail/?q=)
+
+liquor : [http://www.bixbar.com/liquor/?q=](http://www.bixbar.com/liquor/?q=)
+
+base : [http://www.bixbar.com/base/?q=](http://www.bixbar.com/base/?q=cognac)
+
+getfood : [http://www.bixbar.com/getfood/?q=](http://www.bixbar.com/getfood/?q=cognac)
 
 <br/>
 
