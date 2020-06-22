@@ -1,8 +1,6 @@
 # Bixbar
-> Notion : https://www.notion.so/ccookncook/Bixbar-b5401104a0d64fdc838d27505fbf27b2
-
-  Todo : https://www.notion.so/e22d389dddc04614a970bdd6ab76b43e?v=d27a9f78c04f42d5938b95431c942317
-  
+> Notion : https://www.notion.so/ccookncook/Bixbar-b5401104a0d64fdc838d27505fbf27b2<br/>
+  Todo : https://www.notion.so/e22d389dddc04614a970bdd6ab76b43e?v=d27a9f78c04f42d5938b95431c942317<br/>
   Google Drive : https://drive.google.com/drive/folders/1sxu2eGAEShhobkIA0Yb8Y_naYrI2JI9L
   
 - **[Bixbar](https://github.com/kordood/Bixbar/tree/master/Bixbar)**
