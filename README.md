@@ -70,7 +70,7 @@ getfood : [http://www.bixbar.com/getfood/?q=](http://www.bixbar.com/getfood/?q=c
 # Project Architecture
 - **시스템 대블록 설계**
 
-![Untitled4](https://user-images.githubusercontent.com/28800101/84741780-86fa9a80-afea-11ea-9395-e4caf4ef2994.png)
+![image](https://user-images.githubusercontent.com/28800101/85257187-60cc7300-b4a0-11ea-8b0b-3a354c609650.png)
 
 - **Database**
 
