@@ -48,7 +48,7 @@
 
 
 - **[송혜령](http://github.com/HyeRyeongSong) : Project Manager & Crawling Master**
-  - `Instagram Hash Tag Crwaling`, `Web Crwaling`, `Personalize`, `Bixby UI`, 
+  - `Instagram Hash Tag Crwaling`, `Web Crwaling`, `Personalize`, `Bixby UI`
   
 - **[박정아](http://github.com/co3oing) : Database Master**
   - `Database Design`, `Server Migration`, `Bixby Action Modeling`, `Git & Notion Management`
