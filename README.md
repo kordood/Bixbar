@@ -1,5 +1,5 @@
 # Bixbar
-> **Notion** : https://www.notion.so/ccookncook/Bixbar-b5401104a0d64fdc838d27505fbf27b2<br/>
+> **Notion** : www.Bixbar.com<br/>
   **Todo** : https://www.notion.so/e22d389dddc04614a970bdd6ab76b43e?v=d27a9f78c04f42d5938b95431c942317<br/>
   **Google Drive** : https://drive.google.com/drive/folders/1sxu2eGAEShhobkIA0Yb8Y_naYrI2JI9L
   
@@ -9,17 +9,6 @@
   - Bixby
 - **[Crawling](https://github.com/kordood/Bixbar/tree/master/crawling)**
   - Crawling
-
-# URLs
-Notion : [www.Bixbar.com](http://www.Bixbar.com)
-
-cocktail : [http://www.bixbar.com/cocktail/?q=](http://www.bixbar.com/cocktail/?q=)
-
-liquor : [http://www.bixbar.com/liquor/?q=](http://www.bixbar.com/liquor/?q=)
-
-base : [http://www.bixbar.com/base/?q=](http://www.bixbar.com/base/?q=cognac)
-
-getfood : [http://www.bixbar.com/getfood/?q=](http://www.bixbar.com/getfood/?q=cognac)
 
 <br/>
 
@@ -33,19 +22,23 @@ getfood : [http://www.bixbar.com/getfood/?q=](http://www.bixbar.com/getfood/?q=c
 - **칵테일 제조법 전달**
 
   - 레시피와 재료 등의 정보를 제공
+  - `get` http://www.bixbar.com/cocktail/?q=screw
 
 - **베이스를 이용한 칵테일 검색**
 
   - 해당 베이스가 들어가는 칵테일 리스트 
+  - `get` http://www.bixbar.com/liquor/?q=rum
 
 - **칵테일에 어울리는 안주 추천**
 
   - 칵테일-안주 페어링 정보에서 가장 높은 정확도를 보이는 안주 추천
+  - `get` http://www.bixbar.com/getfood/?q=cognac
 
 - **사용자 맞춤 칵테일 추천**
 
   - 사용자의 연령대, 성별 및 기본 취향을 수집하여 정확한 사용자 맞춤 추천
-  
+  - `post` http://www.bixbar.com/recommend/
+
 <br/>
 
 # About Project
@@ -55,6 +48,7 @@ getfood : [http://www.bixbar.com/getfood/?q=](http://www.bixbar.com/getfood/?q=c
 <br/>
 
 # 팀 구성
+![image](https://user-images.githubusercontent.com/28800101/85349791-52329a00-b53a-11ea-9dfe-9755ce3ff6fd.png)
 
 
 - **[송혜령](http://github.com/HyeRyeongSong) : Project Manager & Crawling Master**
