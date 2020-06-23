@@ -38,16 +38,12 @@
 
   - 사용자의 연령대, 성별 및 기본 취향을 수집하여 정확한 사용자 맞춤 추천
   - `post` http://www.bixbar.com/recommend/
-
-<br/>
-
-# About Project
-
-> 숭실대학교 소프트웨어학부 2019-2 ~ 2020-1 캡스톤디자인종합프로젝트
-
+  
 <br/>
 
 # 팀 구성
+> 숭실대학교 소프트웨어학부 2019-2 ~ 2020-1 캡스톤디자인종합프로젝트
+
 ![image](https://user-images.githubusercontent.com/28800101/85349791-52329a00-b53a-11ea-9dfe-9755ce3ff6fd.png)
 
 
@@ -66,15 +62,15 @@
  <br/>
  
 # Project Architecture
-- **시스템 대블록 설계**
+### 시스템 대블록 설계
 
 ![image](https://user-images.githubusercontent.com/28800101/85257187-60cc7300-b4a0-11ea-8b0b-3a354c609650.png)
 
-- **Database**
+### Database
 
 ![Untitled5](https://user-images.githubusercontent.com/28800101/84741783-86fa9a80-afea-11ea-89e2-1c7763c18c66.png)
 
-- **Flow Chart**
+### Flow Chart
 
 ![Bixby_FlowChart0](https://user-images.githubusercontent.com/28800101/84741784-87933100-afea-11ea-9792-230548c76ac6.png)
 
