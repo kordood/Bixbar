@@ -85,7 +85,6 @@ class FoodBase(models.Model):
     def __str__(self):
         return self.foodsTitle
     
-# 모델 확장중
 class Cocktail(models.Model):
     title = models.CharField(max_length = 50)
     img = models.CharField(max_length = 200, null = True)
