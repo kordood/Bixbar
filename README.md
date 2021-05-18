@@ -1,3 +1,5 @@
+This repository is **deprecated**! We migrate to the [repository](https://github.com/Bixbar/Bixbar-Integrated) in the Bixbar organization.
+
 # Bixbar
 > **Notion** : [www.Bixbar.com](https://www.notion.so/ccookncook/Bixbar-b5401104a0d64fdc838d27505fbf27b2)<br/>
   **Todo** : https://www.notion.so/e22d389dddc04614a970bdd6ab76b43e?v=d27a9f78c04f42d5938b95431c942317<br/>
